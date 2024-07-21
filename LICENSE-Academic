@@ -1,0 +1,47 @@
+NONEXCLUSIVE, NON-TRANSFERABLE SOFTWARE LICENSE AGREEMENT
+
+This software license agreement ("Agreement") is between the registered user (hereinafter called "Licensee") and the California Institute of Technology, a not-for-profit California corporation, located at 1200 E. California Blvd., Pasadena, California 91125 MC 6-32 ("Caltech"), and is effective and hereby agreed to and accepted by Licensee as of the date the executable code and/or source code form of GARFfield ("Software") are downloaded.  The Software is protected under copyright laws and applicable international intellectual property treaties, and all rights not specifically granted in this Agreement are reserved to Caltech. The Software is available to Licensee on the following terms:
+
+1.	Caltech hereby grants to Licensee a nonexclusive, non-transferable, license, without the right to sublicense, to use the Software for non-commercial, academic research purposes only.  The Software may be installed only on a computer owned by Licensee and may only be used by Licensee's employees or students. Licensee may redistribute, without restriction, works with up to 1/2 of their non-comment source code derived from at most 1/10 of the non-comment source code developed by Caltech and contained in the Software, provided that the below directions in Sections 6 and 7 are observed. Any other distribution of the Software or Derivative Works thereof (as defined in the U.S. copyright statutes, 17 USC § 101) requires written permission from Caltech.
+
+2.	None of the Software provided or output from the Software provided may be used in commercial products or services, directly or indirectly, unless a license agreement granting the right to use the Software or output in commercial products or services is executed between Caltech and Licensee. Licensee agrees that it will not license, distribute, or sell the Software or any software, information or data that incorporate any part of the Software, including Derivative Works, to any other parties without having executed such an agreement with Caltech.	
+
+3.	Licensee understands the Software is proprietary to Caltech. Licensee agrees to take all reasonable steps to insure that the Software is protected and secured from unauthorized disclosure, use, or release and will treat it with at least the same level of care as Licensee would use to protect and secure its own proprietary computer programs and/or information, but using no less than a reasonable standard of care. If Licensee becomes aware of any unauthorized licensing, copying or use of the Software, Licensee shall promptly notify Caltech in writing.
+
+4.	Licensee agrees that any person within the Licensee's organization utilizing the Software will be advised of, and is subject to, the conditions in the Agreement.
+
+5.	Licensee agrees to grant Caltech a nonexclusive, non-transferable, royalty-free license to any other software, information or data that incorporate any part of the Software, including Derivative Works for the purpose of research internal to Caltech, as well as any purpose for or on behalf of the United States Government.
+
+6.	All right, title, and interest in and to all data, information, and inventions that result from use of the Software by the Licensee shall vest in and belong to the Licensee, with the exception of Derivative Works, which shall be owned according to U.S. copyright law.  Licensee agrees to provide Caltech with copies of publications that reference the Software, and shall acknowledge Caltech in those publications by including the following reference:
+
+A. Jaramillo-Botero, S. Naserifar, and W.A. Goddard III, "A General Multi-Objective Force Field Optimization Framework, with Application to Reactive Force Fields for Silicon Carbide", Journal of Chemical Theory and Computation, 2014, 10 (4), 
+pp 1426-1439. DOI: 10.1021/ct5001044.
+
+Licensee agrees that any reports or published results containing materials obtained with the Software shall acknowledge the Software's use by including the following acknowledgment:
+
+GARFfield was developed by Andres Jaramillo-Botero at the California Institute of Technology.
+
+7.	Licensee may, at its own expense, create and freely distribute complimentary works that interoperate with the Software, directing others to the MSC server to license and obtain the Software itself. Licensee may, at its own expense, modify the Software to make Derivative Works. This Agreement shall apply to any Derivative Works as it does to the original Software distributed by Caltech. Any Derivative Works should be clearly marked and renamed to notify users that it is a modified version and not the original Software distributed by Caltech. Licensee agrees to reproduce the following copyright notice on any Derivative Works:	
+
+GARFfield Software	
+Copyright (c) 2012-2015, California Institute of Technology. Supported by (or developed with) funding from DARPA, Grant No. HR0011-14-2-0003). All rights reserved.
+
+8.	THE SOFTWARE AND/OR RELATED MATERIALS ARE PROVIDED "AS-IS" WITHOUT WARRANTY OF ANY KIND INCLUDING ANY WARRANTIES OF PERFORMANCE OR NONINFRINGEMENT OR MERCHANTABILITY OR FITNESS FOR A PARTICULAR USE OR PURPOSE (AS SET FORTH IN UCC 2312-2313) OR FOR ANY PURPOSE WHATSOEVER, FOR THE LICENSED PRODUCT, HOWEVER USED.	 
+
+THIS AGREEMENT DOES NOT INCLUDE ANY TECHNICAL OR OTHER TYPE OF SUPPORT.
+
+IN NO EVENT SHALL CALTECH BE LIABLE FOR ANY DAMAGES AND/OR COSTS, INCLUDING BUT NOT LIMITED TO INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING ECONOMIC DAMAGE OR INJURY TO PROPERTY AND LOST PROFITS, REGARDLESS OF WHETHER CALTECH SHALL BE ADVISED, HAVE REASON TO KNOW, OR IN FACT SHALL KNOW OF THE POSSIBILITY.
+
+LICENSEE BEARS ALL RISK RELATING TO QUALITY AND PERFORMANCE OF THE SOFTWARE AND/OR RELATED MATERIALS, AND AGREES TO INDEMNIFY CALTECH FOR ALL THIRD-PARTY CLAIMS RESULTING FROM THE ACTIONS OF LICENSEE IN THE USE OF THE SOFTWARE.
+
+9.	The Agreement covers the use described in paragraph 1 above.  All other uses of the Software by the Licensee must be approved in writing in advance by Caltech.
+
+10.	This Agreement shall be governed by the laws of the State of California, and any action brought hereunder shall be within the State of California.
+
+11.	The grant of this license is subject to the requirements necessary to comply with all applicable U.S. export laws (including, but not limited to, 22 CFR §120-130 and 15 CFR §730-774).  If Caltech determines that providing the Software to Licensee would violate said export laws, this Agreement shall be void.  Licensee agrees to comply with all applicable U.S. export control laws and regulations.  To the extent that the Software is subject to U.S. export control laws and regulations, the Licensee has the responsibility to obtain export licenses or other export authority as may be required before exporting such information to foreign countries or providing access to foreign persons.
+
+12.	GARFfield is being distributed as a research and teaching tool, and as such, the author encourages contributions from users of code that might, at Caltech's sole discretion, be used or incorporated to make the basic operating framework of the Software a more stable, flexible, and/or useful product.  Licensees who contribute their code to become an internal portion of the Software agree that such code may be distributed by Caltech under the terms of this Agreement and may be required to sign an "Agreement Regarding Contributory Code for GARFfield Software" before Caltech can accept it.
+
+13.	This Agreement constitutes the sole and entire agreement of the parties as to the matter set forth herein and supersedes any previous agreements, understandings, and arrangements, whether oral or written, between the parties relating hereto. No waiver of or change in any of the terms hereof subsequent to the execution hereof claimed to have been made by any representative of either party shall have any force or effect unless in writing, signed by duly authorized representatives of the parties.
+
+
