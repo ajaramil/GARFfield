@@ -1,0 +1,449 @@
+#CHARGE
+#Al2O3_co_0 0.50  1  0.73
+#Al2O3_co_0 0.50  2 -0.49
+#Al2OH4q    0.50  1  1.046
+#Al2OH4q    0.50  3  -0.852
+#OH4AlOAlq  0.50  1  1.692
+#OH4AlOAlq  0.50  2  -1.194
+#OH4AlOAlq  0.50  4  -0.866
+#OH2AlOAlOq 0.50  1   1.337
+#OH2AlOAlOq 0.50  2  -1.175
+#OH2AlOAlOq 0.50  3   1.716
+#OH2AlOAlOq 0.50  4  -0.865
+#OH2AlOAlOq 0.50  8  -0.811
+#AlOH3q     0.05  1   1.0199
+#AlOH3q     0.05  2  -0.6614
+#AlOH3q     0.10  6   0.3142
+#AlNH2q     0.10  1   0.83215
+#AlNH2q     0.10  2  -0.77011
+#AlNH2q     0.20  6   0.24636
+#ENDCHARGE
+CELL PARAMETERS
+#Al2O3_co_opt  0.020   a  4.88347
+#Al2N2_w_opt   0.010   a  3.15127
+#Al2O3_Rh2O3_opt  0.020   a  7.03818
+#Al2O3_perov_opt  0.020   a  4.76693
+#Al2O3_cmcm_opt  0.020   a  2.72624
+#Al2O3_kappa_opt  0.020   a  4.80410
+ENDCELL PARAMETERS
+#FREQUENCIES
+#ENDFREQUENCIES
+#HEATFO
+#Keyw Weight Lit# (a5,1x,f6.2,f10.4)
+#ENDHEATFO
+GEOMETRY
+#AlOH3_opt 0.010   1   2           1.70
+#AlNH2_opt 0.010   1   2           1.78
+#AlCH33_opt  0.010   1   2         1.97
+#AlCH33_opt  2.000   2   1  3    120.00
+#AlH3_opt  0.010   1   2           1.59
+#AlH3_opt  2.000   2   1   3     120.000
+#AlNH2_opt 2.000   2   1   3     120.000
+ENDGEOMETRY
+ENERGY
+#10.0   +   AlCH33_opt /1  -   AlCH33b_1_37 /1                                    -149.5
+# 5.0   +   AlCH33_opt /1  -   AlCH33b_1_57 /1                                     -46.7
+# 2.5   +   AlCH33_opt /1  -   AlCH33b_1_77 /1                                      -8.4
+# 2.5   +   AlCH33_opt /1  -   AlCH33b_1_97 /1                                      -0.001
+# 2.5   +   AlCH33_opt /1  -   AlCH33b_2_17 /1                                      -4.7
+# 2.5   +   AlCH33_opt /1  -   AlCH33b_2_37 /1                                     -14.7
+# 5.0   +   AlCH33_opt /1  -   AlCH33b_2_57 /1                                     -26.4
+# 5.0   +   AlCH33_opt /1  -   AlCH33b_2_77 /1                                     -37.9
+# 5.0   +   AlCH33_opt /1  -   AlCH33b_2_97 /1                                     -48.5
+# 5.0   +   AlCH33_opt /1  -   AlCH33b_3_17 /1                                     -58.1
+# 5.0   +   AlCH33_opt /1  -   AlCH33b_3_57 /1                                     -74.4
+# 2.5   +   AlCH33_opt /1  -   AlCH33b_4_17 /1                                     -79.5
+# 1.0   +   AlCH33_opt /1  -   AlCH33_a119 /1                                    -0.001
+# 1.0   +   AlCH33_opt /1  -   AlCH33_a114 /1                                    -0.22 
+# 1.0   +   AlCH33_opt /1  -   AlCH33_a109 /1                                    -0.98 
+# 1.0   +   AlCH33_opt /1  -   AlCH33_a104 /1                                    -2.35 
+# 1.0   +   AlCH33_opt /1  -   AlCH33_a99  /1                                    -4.41 
+# 1.0   +   AlCH33_opt /1  -   AlCH33_a94  /1                                    -7.33 
+# 2.0   +   AlCH33_opt /1  -   AlCH33_a89  /1                                   -11.34 
+# 2.0   +   AlCH33_opt /1  -   AlCH33_a84  /1                                   -16.81 
+# 2.0   +   AlCH33_opt /1  -   AlCH33_a79  /1                                   -24.36 
+# 4.0   +   AlCH33_opt /1  -   AlCH33_a74  /1                                   -34.46 
+# 4.0   +   AlCH33_opt /1  -   AlCH33_a69  /1                                   -47.79 
+#10.0   +   AlH3_opt /1  -   AlH3b_1_19 /1                                        -44.2 
+# 2.5   +   AlH3_opt /1  -   AlH3b_1_39 /1                                         -8.2 
+# 2.5   +   AlH3_opt /1  -   AlH3b_1_59 /1                                         -0.001
+# 2.5   +   AlH3_opt /1  -   AlH3b_1_79 /1                                         -4.8
+# 2.5   +   AlH3_opt /1  -   AlH3b_1_99 /1                                        -15.1
+# 2.5   +   AlH3_opt /1  -   AlH3b_2_19 /1                                        -27.5
+# 5.0   +   AlH3_opt /1  -   AlH3b_2_39 /1                                        -40.1
+# 5.0   +   AlH3_opt /1  -   AlH3b_2_59 /1                                        -52.0
+#10.0   +   AlH3_opt /1  -   AlH3b_2_79 /1                                        -62.9
+#10.0   +   AlH3_opt /1  -   AlH3b_2_99 /1                                        -72.6
+#10.0   +   AlH3_opt /1  -   AlH3b_3_19 /1                                        -81.2
+# 2.5   +   AlH3_opt /1  -   AlH3b_4_19 /1                                        -86.8
+# 1.0   +   AlH3_opt /1  -   AlH3_a120 /1                                        -0.001
+# 1.0   +   AlH3_opt /1  -   AlH3_a115 /1                                        -0.25 
+# 1.0   +   AlH3_opt /1  -   AlH3_a110 /1                                        -1.0  
+# 1.0   +   AlH3_opt /1  -   AlH3_a105 /1                                        -2.3  
+# 1.0   +   AlH3_opt /1  -   AlH3_a100 /1                                        -4.1  
+# 1.0   +   AlH3_opt /1  -   AlH3_a95  /1                                        -6.6  
+# 1.0   +   AlH3_opt /1  -   AlH3_a90  /1                                        -9.7  
+# 2.0   +   AlH3_opt /1  -   AlH3_a85  /1                                       -13.4  
+# 2.0   +   AlH3_opt /1  -   AlH3_a80  /1                                       -17.9  
+# 2.0   +   AlH3_opt /1  -   AlH3_a75  /1                                       -23.3  
+# 4.0   +   AlH3_opt /1  -   AlH3_a70  /1                                       -29.4  
+# 4.0   +   AlH3_opt /1  -   AlH3_a65  /1                                       -36.5  
+# 4.0   +   AlH3_opt /1  -   AlH3_a60  /1                                       -44.4  
+# 4.0   +   AlH2OH_opt /1  -   AlH2OH_a65  /1                                       -36.96 
+# 4.0   +   AlH2OH_opt /1  -   AlH2OH_a70  /1                                       -29.12 
+# 2.0   +   AlH2OH_opt /1  -   AlH2OH_a75  /1                                       -22.38 
+# 2.0   +   AlH2OH_opt /1  -   AlH2OH_a80  /1                                       -16.68 
+# 2.0   +   AlH2OH_opt /1  -   AlH2OH_a85  /1                                       -11.96 
+# 1.0   +   AlH2OH_opt /1  -   AlH2OH_a90  /1                                        -8.11 
+# 1.0   +   AlH2OH_opt /1  -   AlH2OH_a95  /1                                        -5.08 
+# 1.0   +   AlH2OH_opt /1  -   AlH2OH_a100 /1                                        -2.80 
+# 1.0   +   AlH2OH_opt /1  -   AlH2OH_a105 /1                                        -1.23 
+# 1.0   +   AlH2OH_opt /1  -   AlH2OH_a110 /1                                        -0.30 
+# 1.0   +   AlH2OH_opt /1  -   AlH2OH_a115 /1                                        -0.0001
+# 1.0   +   AlH2OH_opt /1  -   AlH2OH_a120 /1                                        -0.27
+# 1.0   +   AlH2OH_opt /1  -   AlH2OH_a125 /1                                        -1.09
+# 1.0   +   AlH2OH_opt /1  -   AlH2OH_a130 /1                                        -2.41
+# 1.0   +   AlH2OH_opt /1  -   AlH2OH_a135 /1                                        -4.22
+# 1.0   +   AlH2OH_opt /1  -   AlH2OH_a140 /1                                        -6.49
+# 2.0   +   AlH2OH_opt /1  -   AlH2OH_a145 /1                                        -9.20
+# 2.0   +   AlH2OH_opt /1  -   AlH2OH_a150 /1                                       -12.32
+# 2.0   +   AlH2OH_opt /1  -   AlH2OH_a155 /1                                       -15.86
+# 4.0   +   AlH2OH_opt /1  -   AlH2OH_a160 /1                                       -19.79
+# 4.0   +   AlH2OH_opt /1  -   AlH2OH_a165 /1                                       -24.11
+#10.0   +   AlH2NH2_opt /1  -   AlH2NH2_a68  /1                                       -35.83 
+#10.0   +   AlH2NH2_opt /1  -   AlH2NH2_a73  /1                                       -27.42 
+#10.0   +   AlH2NH2_opt /1  -   AlH2NH2_a78  /1                                       -20.55 
+# 2.0   +   AlH2NH2_opt /1  -   AlH2NH2_a83  /1                                       -15.00 
+# 2.0   +   AlH2NH2_opt /1  -   AlH2NH2_a88  /1                                       -10.58 
+# 2.0   +   AlH2NH2_opt /1  -   AlH2NH2_a93  /1                                        -7.09 
+# 1.0   +   AlH2NH2_opt /1  -   AlH2NH2_a98  /1                                        -4.41 
+# 1.0   +   AlH2NH2_opt /1  -   AlH2NH2_a103 /1                                        -2.42 
+# 1.0   +   AlH2NH2_opt /1  -   AlH2NH2_a108 /1                                        -1.05 
+# 1.0   +   AlH2NH2_opt /1  -   AlH2NH2_a113 /1                                        -0.26 
+# 1.0   +   AlH2NH2_opt /1  -   AlH2NH2_a118 /1                                        -0.0001 
+# 1.0   +   AlH2NH2_opt /1  -   AlH2NH2_a123 /1                                        -0.24
+# 1.0   +   AlH2NH2_opt /1  -   AlH2NH2_a128 /1                                        -0.95
+# 1.0   +   AlH2NH2_opt /1  -   AlH2NH2_a133 /1                                        -2.12
+# 1.0   +   AlH2NH2_opt /1  -   AlH2NH2_a138 /1                                        -3.74
+# 2.0   +   AlH2NH2_opt /1  -   AlH2NH2_a143 /1                                        -5.80
+# 2.0   +   AlH2NH2_opt /1  -   AlH2NH2_a148 /1                                        -8.29
+# 2.0   +   AlH2NH2_opt /1  -   AlH2NH2_a153 /1                                       -11.23
+# 4.0   +   AlH2NH2_opt /1  -   AlH2NH2_a158 /1                                       -18.40
+# 4.0   +   AlH2NH2_opt /1  -   AlH2NH2_a163 /1                                       -22.65
+# 4.0   +   AlH2CH3_opt /1  -   AlH2CH3_a70  /1                                       -30.19 
+# 4.0   +   AlH2CH3_opt /1  -   AlH2CH3_a75  /1                                       -23.36 
+# 4.0   +   AlH2CH3_opt /1  -   AlH2CH3_a80  /1                                       -17.70 
+# 2.0   +   AlH2CH3_opt /1  -   AlH2CH3_a85  /1                                       -13.05 
+# 2.0   +   AlH2CH3_opt /1  -   AlH2CH3_a90  /1                                        -9.26 
+# 2.0   +   AlH2CH3_opt /1  -   AlH2CH3_a95  /1                                        -6.24 
+# 1.0   +   AlH2CH3_opt /1  -   AlH2CH3_a100 /1                                        -3.88 
+# 1.0   +   AlH2CH3_opt /1  -   AlH2CH3_a105 /1                                        -2.12 
+# 1.0   +   AlH2CH3_opt /1  -   AlH2CH3_a110 /1                                        -0.91 
+# 1.0   +   AlH2CH3_opt /1  -   AlH2CH3_a115 /1                                        -0.21 
+# 1.0   +   AlH2CH3_opt /1  -   AlH2CH3_a120 /1                                        -0.0001 
+# 1.0   +   AlH2CH3_opt /1  -   AlH2CH3_a125 /1                                        -0.26
+# 1.0   +   AlH2CH3_opt /1  -   AlH2CH3_a130 /1                                        -0.98
+# 1.0   +   AlH2CH3_opt /1  -   AlH2CH3_a135 /1                                        -2.14
+# 1.0   +   AlH2CH3_opt /1  -   AlH2CH3_a140 /1                                        -3.73
+# 1.0   +   AlH2CH3_opt /1  -   AlH2CH3_a145 /1                                        -5.75
+# 2.0   +   AlH2CH3_opt /1  -   AlH2CH3_a150 /1                                        -8.19
+# 2.0   +   AlH2CH3_opt /1  -   AlH2CH3_a155 /1                                       -11.06
+# 2.0   +   AlH2CH3_opt /1  -   AlH2CH3_a160 /1                                       -14.34
+# 4.0   +   AlH2CH3_opt /1  -   AlH2CH3_a165 /1                                       -16.37
+# 4.0   +   AlH2CH3_opt /1  -   AlH2CH3_a170 /1                                       -20.20
+#10.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a66  /1                                       -60.05
+# 4.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a71  /1                                       -42.99
+# 4.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a76  /1                                       -30.30
+# 4.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a81  /1                                       -20.96
+# 2.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a86  /1                                       -14.13
+# 2.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a91  /1                                        -9.17
+# 1.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a96  /1                                        -5.56
+# 1.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a101 /1                                        -3.02
+# 1.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a106 /1                                        -1.33
+# 1.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a111 /1                                        -0.34
+# 1.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a116 /1                                        -0.0001
+# 1.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a121 /1                                        -0.25
+# 1.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a126 /1                                        -1.05
+# 1.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a131 /1                                        -2.38
+# 1.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a136 /1                                        -4.22
+# 1.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a141 /1                                        -6.54
+# 1.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a146 /1                                        -9.32
+# 2.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a151 /1                                       -12.55
+# 2.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a156 /1                                       -16.22
+# 2.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a161 /1                                       -20.36
+# 4.0   +   AlHOHNH2_opt /1  -   AlHOHNH2_a166 /1                                       -24.97
+# 4.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a67  /1                                       -45.58
+# 4.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a72  /1                                       -33.71
+# 2.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a77  /1                                       -24.37
+# 2.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a82  /1                                       -17.22
+# 2.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a87  /1                                       -11.77
+# 1.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a92  /1                                        -7.68
+# 1.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a97  /1                                        -4.65
+# 1.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a102 /1                                        -2.48
+# 1.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a107 /1                                        -1.03
+# 1.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a112 /1                                        -0.23
+# 1.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a117 /1                                        -0.0001
+# 1.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a122 /1                                        -0.31
+# 1.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a127 /1                                        -1.13
+# 1.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a132 /1                                        -2.46
+# 1.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a137 /1                                        -4.24
+# 1.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a142 /1                                        -6.49
+# 2.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a147 /1                                        -9.17
+# 2.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a152 /1                                       -12.29
+# 2.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a157 /1                                       -15.82
+# 2.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a162 /1                                       -18.18
+# 4.0   +   AlHOHCH3_opt /1  -   AlHOHCH3_a167 /1                                       -22.31
+# 4.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a70  /1                                       -47.31
+# 4.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a75  /1                                       -34.35
+# 2.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a80  /1                                       -24.43
+# 2.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a85  /1                                       -17.01
+# 2.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a90  /1                                       -11.55
+# 2.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a95  /1                                        -7.53
+# 1.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a100 /1                                        -4.60
+# 1.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a105 /1                                        -2.53
+# 1.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a110 /1                                        -1.16
+# 1.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a115 /1                                        -0.39
+# 1.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a120 /1                                        -0.16
+# 1.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a125 /1                                        -0.0001
+# 1.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a130 /1                                        -0.67
+# 1.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a135 /1                                        -1.77
+# 1.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a140 /1                                        -3.32
+# 1.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a145 /1                                        -5.28
+# 1.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a150 /1                                        -7.67
+# 2.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a155 /1                                       -10.49
+# 2.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a160 /1                                       -13.76
+# 2.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a165 /1                                       -17.49
+# 4.0   +   AlHNH2CH3_opt /1  -   AlHNH2CH3_a170 /1                                       -21.70
+#50.0   +   AlNH2_opt /1  -   AlNH2b_1_18 /1                                        -296.2 
+#10.0   +   AlNH2_opt /1  -   AlNH2b_1_38 /1                                         -87.7 
+# 2.5   +   AlNH2_opt /1  -   AlNH2b_1_58 /1                                         -15.2 
+# 2.5   +   AlNH2_opt /1  -   AlNH2b_1_78 /1                                          -0.01
+# 2.5   +   AlNH2_opt /1  -   AlNH2b_1_98 /1                                          -8.3 
+# 2.5   +   AlNH2_opt /1  -   AlNH2b_2_18 /1                                         -21.4 
+# 5.0   +   AlNH2_opt /1  -   AlNH2b_2_38 /1                                         -36.2 
+#10.0   +   AlNH2_opt /1  -   AlNH2b_2_58 /1                                         -50.6 
+#10.0   +   AlNH2_opt /1  -   AlNH2b_2_78 /1                                         -63.8 
+#10.0   +   AlNH2_opt /1  -   AlNH2b_2_98 /1                                         -75.4 
+#10.0   +   AlNH2_opt /1  -   AlNH2b_3_18 /1                                         -85.6 
+#25.0   +   AlNH2_opt /1  -   AlNH2b_3_38 /1                                         -94.6 
+#25.0   +   AlNH2_opt /1  -   AlNH2b_3_58 /1                                         -99.3 
+#25.0   +   AlNH2_opt /1  -   AlNH2b_3_78 /1                                         -98.5 
+#25.0   +   AlNH2_opt /1  -   AlNH2b_3_98 /1                                         -97.9 
+# 1.0   +   AlNH2_opt /1  -   AlNH2b_3_98 /1                                         -98.8 
+# 1.0   +   NAlN_a120 /1  -   NAlN_a115 /1                                          -0.3 
+# 1.0   +   NAlN_a120 /1  -   NAlN_a110 /1                                          -1.2 
+# 1.0   +   NAlN_a120 /1  -   NAlN_a105 /1                                          -2.7 
+# 1.0   +   NAlN_a120 /1  -   NAlN_a100 /1                                          -5.0 
+# 1.0   +   NAlN_a120 /1  -   NAlN_a095 /1                                          -8.1 
+# 1.0   +   NAlN_a120 /1  -   NAlN_a090 /1                                         -12.4 
+# 2.0   +   NAlN_a120 /1  -   NAlN_a085 /1                                         -18.1 
+# 3.0   +   NAlN_a120 /1  -   NAlN_a080 /1                                         -25.6 
+# 3.0   +   NAlN_a120 /1  -   NAlN_a075 /1                                         -35.4 
+# 4.0   +   NAlN_a120 /1  -   NAlN_a070 /1                                         -48.3 
+# 4.0   +   NAlN_a120 /1  -   NAlN_a065 /1                                         -64.8 
+# 6.0   +   NAlN_a120 /1  -   NAlN_a060 /1                                         -85.6 
+# 0.25  +   Al2N2_w_0/2  -   Al2N2_w_p5 /2                                     -0.17 
+# 0.25  +   Al2N2_w_0/2  -   Al2N2_w_p10 /2                                    -0.68 
+# 0.50  +   Al2N2_w_0/2  -   Al2N2_w_p20 /2                                    -2.45 
+# 2.50  +   Al2N2_w_0/2  -   Al2N2_w_p50 /2                                   -11.39 
+# 5.00  +   Al2N2_w_0/2  -   Al2N2_w_p110/2                                   -34.96 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_e7 /1                                     -2.80 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_e6 /1                                     -2.10 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_e5 /1                                     -1.50 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_e4 /1                                     -0.80 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_e3 /1                                     -0.50 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_e2 /1                                     -0.10 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_e1 /1                                     -0.02 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c1 /1                                     -0.02 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c2 /1                                     -0.10 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c3 /1                                     -0.50 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c4 /1                                     -0.80 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c5 /1                                     -1.50 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c6 /1                                     -2.10 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c7 /1                                     -2.80 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c8 /1                                     -4.00 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c9 /1                                     -4.50 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c10 /1                                    -5.70 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c11 /1                                    -6.75 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c12 /1                                    -8.40 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c13 /1                                   -10.10 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c14 /1                                   -11.50 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c15 /1                                   -13.25 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c16 /1                                   -15.20 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c17 /1                                   -18.00 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c18 /1                                   -19.50 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c19 /1                                   -21.90 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c20 /1                                   -24.40 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c21 /1                                   -26.90 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c22 /1                                   -29.40 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c23 /1                                   -31.90 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c24 /1                                   -34.40 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c25 /1                                   -36.90 
+# 1.00  +   Al2N2_w_0/1  -   Al2N2_w_c26 /1                                   -39.40 
+#50.0   +   AlOH3_opt /1  -   AlOH3b_1_1 /1                                          -360.68
+#25.0   +   AlOH3_opt /1  -   AlOH3b_1_3 /1                                           -97.04
+# 2.5   +   AlOH3_opt /1  -   AlOH3b_1_5 /1                                           -15.94
+# 2.5   +   AlOH3_opt /1  -   AlOH3b_1_7 /1                                             0.01
+# 2.5   +   AlOH3_opt /1  -   AlOH3b_1_9 /1                                            -8.55
+# 2.5   +   AlOH3_opt /1  -   AlOH3b_2_1 /1                                           -25.79
+# 5.0   +   AlOH3_opt /1  -   AlOH3b_2_3 /1                                           -44.22
+#10.0   +   AlOH3_opt /1  -   AlOH3b_2_5 /1                                           -61.70
+#10.0   +   AlOH3_opt /1  -   AlOH3b_2_7 /1                                           -77.24
+#15.0   +   AlOH3_opt /1  -   AlOH3b_2_9 /1                                           -90.89
+#20.0   +   AlOH3_opt /1  -   AlOH3b_3_1 /1                                          -102.62
+#25.0   +   AlOH3_opt /1  -   AlOH3b_3_3 /1                                          -112.60
+#25.0   +   AlOH3_opt /1  -   AlOH3b_3_5 /1                                          -115.40
+#25.0   +   AlOH3_opt /1  -   AlOH3b_3_7 /1                                          -115.85
+#25.0   +   AlOH3_opt /1  -   AlOH3b_3_9 /1                                          -115.85
+# 1.0   +   AlOH3_opt /1  -   AlOH3b_4_1 /1                                          -114.82
+# 1.0   +   OAlO_a118 /1  -   OAlO_a123 /1                                          -0.5 
+# 1.0   +   OAlO_a118 /1  -   OAlO_a128 /1                                          -1.9 
+# 1.0   +   OAlO_a118 /1  -   OAlO_a133 /1                                          -4.3 
+# 1.0   +   OAlO_a118 /1  -   OAlO_a138 /1                                          -7.8 
+# 1.0   +   OAlO_a118 /1  -   OAlO_a143 /1                                         -12.2 
+# 1.0   +   OAlO_a118 /1  -   OAlO_a148 /1                                         -18.4 
+# 1.5   +   OAlO_a118 /1  -   OAlO_a153 /1                                         -26.0 
+# 2.0   +   OAlO_a118 /1  -   OAlO_a158 /1                                         -35.9 
+#40.0   +   Al2O3_co_c25 /3  -   Al2O3_co_0 /3                                             664.0954
+#40.0   +   Al2O3_co_c24 /3  -   Al2O3_co_0 /3                                             583.0027
+#40.00  +   Al2O3_co_c23 /3  -   Al2O3_co_0 /3                                             510.7069
+#40.00  +   Al2O3_co_c22 /3  -   Al2O3_co_0 /3                                             445.9881
+# 8.00  +   Al2O3_co_c21 /3  -   Al2O3_co_0 /3                                             388.3075
+# 5.00  +   Al2O3_co_c20 /3  -   Al2O3_co_0 /3                                             336.7193
+# 5.00  +   Al2O3_co_c19 /3  -   Al2O3_co_0 /3                                             290.8214
+# 5.00  +   Al2O3_co_c18 /3  -   Al2O3_co_0 /3                                             249.9448
+# 5.00  +   Al2O3_co_c17 /3  -   Al2O3_co_0 /3                                             213.5564
+# 5.00  +   Al2O3_co_c16 /3  -   Al2O3_co_0 /3                                             181.2462
+# 5.00  +   Al2O3_co_c15 /3  -   Al2O3_co_0 /3                                             152.8434
+# 5.00  +   Al2O3_co_c14 /3  -   Al2O3_co_0 /3                                             127.7954
+# 5.00  +   Al2O3_co_c13 /3  -   Al2O3_co_0 /3                                             105.8321
+# 5.00  +   Al2O3_co_c12 /3  -   Al2O3_co_0 /3                                              86.6562
+# 2.50  +   Al2O3_co_c11 /3  -   Al2O3_co_0 /3                                              69.8542
+# 2.00  +   Al2O3_co_c10 /3  -   Al2O3_co_0 /3                                             55.5063
+# 2.00  +   Al2O3_co_c9  /3  -   Al2O3_co_0 /3                                             43.2505
+# 2.00  +   Al2O3_co_c8  /3  -   Al2O3_co_0 /3                                             32.7948
+# 2.00  +   Al2O3_co_c7  /3  -   Al2O3_co_0 /3                                             24.0373
+# 2.00  +   Al2O3_co_c6  /3  -   Al2O3_co_0 /3                                             16.9122
+# 2.00  +   Al2O3_co_c5  /3  -   Al2O3_co_0 /3                                             11.1938
+# 2.00  +   Al2O3_co_c4  /3  -   Al2O3_co_0 /3                                              6.7643
+# 2.00  +   Al2O3_co_c3  /3  -   Al2O3_co_0 /3                                              3.5296
+# 2.00  +   Al2O3_co_c2  /3  -   Al2O3_co_0 /3                                             1.2660
+# 2.00  +   Al2O3_co_c1  /3  -   Al2O3_co_0 /3                                             0.2112
+# 2.00  +   Al2O3_co_e1  /3  -   Al2O3_co_0 /3                                              0.5609
+# 2.00  +   Al2O3_co_e2  /3  -   Al2O3_co_0 /3                                              1.8653
+# 2.00  +   Al2O3_co_e3  /3  -   Al2O3_co_0 /3                                              3.8092
+# 2.00  +   Al2O3_co_e4  /3  -   Al2O3_co_0 /3                                              6.4978
+# 2.50  +   Al2O3_co_e5  /3  -   Al2O3_co_0 /3                                              9.6485
+# 2.50  +   Al2O3_co_e6  /3  -   Al2O3_co_0 /3                                             13.3363
+# 2.50  +   Al2O3_co_e7  /3  -   Al2O3_co_0 /3                                             17.4637
+# 4.00  +   Al2O3_co_e8  /3  -   Al2O3_co_0 /3                                             22.0350
+# 2.00  +   Al2O3_Rh2O3_e1  /4  -   Al2O3_Rh2O3_0 /4                                       0.31
+# 2.00  +   Al2O3_Rh2O3_c1  /4  -   Al2O3_Rh2O3_0 /4                                       1.12
+# 2.00  +   Al2O3_Rh2O3_c2  /4  -   Al2O3_Rh2O3_0 /4                                       3.67
+# 2.00  +   Al2O3_Rh2O3_c3  /4  -   Al2O3_Rh2O3_0 /4                                       7.65
+# 5.00  +   Al2O3_Rh2O3_c4  /4  -   Al2O3_Rh2O3_0 /4                                      20.88
+# 5.00  +   Al2O3_Rh2O3_c5  /4  -   Al2O3_Rh2O3_0 /4                                      41.83
+# 7.50  +   Al2O3_Rh2O3_c6  /4  -   Al2O3_Rh2O3_0 /4                                      72.13
+#10.00  +   Al2O3_Rh2O3_c7  /4  -   Al2O3_Rh2O3_0 /4                                     113.38
+#10.00  +   Al2O3_Rh2O3_c8  /4  -   Al2O3_Rh2O3_0 /4                                     167.46
+# 2.00  +   Al2O3_perov_e1  /4  -   Al2O3_perov_0 /4                                       0.21
+# 2.00  +   Al2O3_perov_c1  /4  -   Al2O3_perov_0 /4                                       0.91
+# 2.00  +   Al2O3_perov_c2  /4  -   Al2O3_perov_0 /4                                       2.98
+# 2.00  +   Al2O3_perov_c3  /4  -   Al2O3_perov_0 /4                                       6.42
+# 5.00  +   Al2O3_perov_c4  /4  -   Al2O3_perov_0 /4                                      17.92
+# 5.00  +   Al2O3_perov_c5  /4  -   Al2O3_perov_0 /4                                      36.48
+# 7.50  +   Al2O3_perov_c6  /4  -   Al2O3_perov_0 /4                                      63.35
+#10.00  +   Al2O3_perov_c7  /4  -   Al2O3_perov_0 /4                                     100.20
+#10.00  +   Al2O3_perov_c8  /4  -   Al2O3_perov_0 /4                                     148.71
+# 2.00  +   Al2O3_cmcm_e1  /4  -   Al2O3_cmcm_0 /4                                       3.29
+# 2.00  +   Al2O3_cmcm_c1  /4  -   Al2O3_cmcm_0 /4                                       0.05
+# 2.00  +   Al2O3_cmcm_c2  /4  -   Al2O3_cmcm_0 /4                                       1.70
+# 2.00  +   Al2O3_cmcm_c3  /4  -   Al2O3_cmcm_0 /4                                       4.47
+# 2.00  +   Al2O3_cmcm_c4  /4  -   Al2O3_cmcm_0 /4                                       8.72
+# 2.00  +   Al2O3_cmcm_c5  /4  -   Al2O3_cmcm_0 /4                                      14.47
+# 5.00  +   Al2O3_cmcm_c6  /4  -   Al2O3_cmcm_0 /4                                      31.02
+# 7.50  +   Al2O3_cmcm_c7  /4  -   Al2O3_cmcm_0 /4                                      55.76
+#10.00  +   Al2O3_cmcm_c8  /4  -   Al2O3_cmcm_0 /4                                      90.17
+#10.00  +   Al2O3_cmcm_c9  /4  -   Al2O3_cmcm_0 /4                                     136.15
+#10.00  +   Al2O3_cmcm_c10 /4  -   Al2O3_cmcm_0 /4                                     195.38
+# 2.00  +   Alfcc_0  /4  -   Alfcc_e4 /4                                            -4.0220
+# 1.00  +   Alfcc_0  /4  -   Alfcc_e3 /4                                            -1.4850
+# 0.50  +   Alfcc_0  /4  -   Alfcc_e2 /4                                            -0.4850
+# 0.50  +   Alfcc_0  /4  -   Alfcc_e1 /4                                            -0.1040
+#25.00  +   Alfcc_0  /4  -   Alfcc_0 /4                                             -0.0010
+# 0.50  +   Alfcc_0  /4  -   Alfcc_c1 /4                                            -0.0030
+# 0.50  +   Alfcc_0  /4  -   Alfcc_c2 /4                                            -0.0690
+# 0.50  +   Alfcc_0  /4  -   Alfcc_c3 /4                                            -0.3360
+# 1.00  +   Alfcc_0  /4  -   Alfcc_c4 /4                                            -0.8260
+# 1.00  +   Alfcc_0  /4  -   Alfcc_c5 /4                                            -3.9180
+# 1.00  +   Alfcc_0  /4  -   Alfcc_c6 /4                                           -13.0690
+# 2.00  +   Alfcc_0  /4  -   Alfcc_c7 /4                                           -20.5080
+# 2.00  +   Alfcc_0  /4  -   Alfcc_c8 /4                                           -30.3550
+# 2.00  +   Alfcc_0  /4  -   Alfcc_c9 /4                                           -50.7030
+# 4.00  +   Alfcc_0  /4  -   Alfcc_c10 /4                                          -79.5340
+# 8.00  +   Alfcc_0  /4  -   Alfcc_c11 /4                                         -119.3930
+# 1.00  +   Albcc_0  /2  -   Albcc_e2 /2                                            -2.8160
+# 0.50  +   Albcc_0  /2  -   Albcc_e1 /2                                            -0.7560
+#25.00  +   Albcc_0  /2  -   Albcc_0 /2                                             -0.0010
+# 0.50  +   Albcc_0  /2  -   Albcc_c1 /2                                            -0.0670
+# 0.50  +   Albcc_0  /2  -   Albcc_c2 /2                                            -0.4540
+# 0.50  +   Albcc_0  /2  -   Albcc_c3 /2                                            -4.1472
+# 1.00  +   Albcc_0  /2  -   Albcc_c4 /2                                           -16.4090
+# 2.00  +   Albcc_0  /2  -   Albcc_c5 /2                                           -31.5260
+# 2.00  +   Albcc_0  /2  -   Albcc_c6 /2                                           -41.9400
+# 3.00  +   Albcc_0  /2  -   Albcc_c7 /2                                           -70.1970
+# 4.00  +   Albcc_0  /2  -   Albcc_c8 /2                                          -111.1530
+# 8.00  +   Albcc_0  /2  -   Albcc_c9 /2                                          -137.7530
+# 8.00  +   Alsc_0  /1  -   Alsc_e2 /1                                            -1.1700
+# 8.00  +   Alsc_0  /1  -   Alsc_e1 /1                                            -0.2000
+#25.00  +   Alsc_0  /1  -   Alsc_0 /1                                             -0.0010
+# 8.00  +   Alsc_0  /1  -   Alsc_c1 /1                                            -0.0020
+# 8.00  +   Alsc_0  /1  -   Alsc_c2 /1                                            -0.1200
+# 8.00  +   Alsc_0  /1  -   Alsc_c3 /1                                            -0.6000
+# 8.00  +   Alsc_0  /1  -   Alsc_c4 /1                                            -5.3800
+# 8.00  +   Alsc_0  /1  -   Alsc_c5 /1                                           -15.8400
+# 8.00  +   Alsc_0  /1  -   Alsc_c6 /1                                           -41.2500
+# 8.00  +   Alsc_0  /1  -   Alsc_c7 /1                                           -56.7100
+#15.00  +   Alsc_0  /1  -   Alsc_c8 /1                                          -100.0300
+#15.00  +   Alsc_0  /1  -   Alsc_c9 /1                                          -146.5700
+#15.00  +   Alsc_0  /1  -   Alsc_c10 /1                                         -186.1300
+# 8.00  +   Aldi_0  /2  -   Aldi_e2 /2                                            -0.6800
+# 8.00  +   Aldi_0  /2  -   Aldi_e1 /2                                            -0.2300
+#25.00  +   Aldi_0  /2  -   Aldi_0 /2                                             -0.0010
+# 8.00  +   Aldi_0  /2  -   Aldi_c1 /2                                            -0.0100
+# 8.00  +   Aldi_0  /2  -   Aldi_c2 /2                                            -0.2400
+# 8.00  +   Aldi_0  /2  -   Aldi_c3 /2                                            -1.0500
+# 8.00  +   Aldi_0  /2  -   Aldi_c4 /2                                            -3.8400
+# 8.00  +   Aldi_0  /2  -   Aldi_c5 /2                                            -9.9600
+# 8.00  +   Aldi_0  /2  -   Aldi_c6 /2                                           -24.6200
+# 8.00  +   Aldi_0  /2  -   Aldi_c7 /2                                           -42.2400
+# 8.00  +   Aldi_0  /2  -   Aldi_c8 /2                                           -58.0700
+# 8.00  +   Aldi_0  /2  -   Aldi_c9 /2                                           -89.5100
+# 8.00  +   Aldi_0  /2  -   Aldi_c10 /2                                         -149.9400
+# 0.25  +   Alfcc_opt /4  -   Albcc_opt /2                                           -2.09  
+#50.00  +   Alfcc_opt /4  -   Ala15_opt /8                                           -3.00 
+# 1.00  +   Alfcc_opt /4  -   Alsc_opt /1                                            -7.58 
+# 2.00  +   Alfcc_opt /4  -   Aldi_opt /2                                           -15.62
+# 1.00  +   Alfcc_opt /4                                                            -78.10
+# 0.50  +   fcc_novacancy /1 - fcc_novacancy /108  - fcc_vacancy/1                  -15.62
+# 1.00  +   Al2O3_co_opt /6 - bix_opt /16                                            -22.37   
+# 1.00  +   Al2O3_co_opt /6 - Al2O3_Rh2O3_opt /4                                     -10.93   
+# 1.00  +   Al2O3_co_opt /6 - Al2O3_perov_opt /4                                     -18.70   
+# 1.00  +   Al2O3_co_opt /6 - Al2O3_cmcm_opt /4                                      -33.01   
+# 2.00  +   Al2O3_Rh2O3_opt /4 - Al2O3_perov_opt /4                                  -7.77
+# 2.00  +   Al2O3_Rh2O3_opt /4 - Al2O3_cmcm_opt /4                                  -22.05
+# 2.00  +   Al2O3_perov_opt /4 - Al2O3_cmcm_opt /4                                  -14.31
+# 0.50  +   Al2O3_co_opt /6 - Al2O3_kappa_opt /8                                    -2.00   
+20.00  +   test /6                                                         -736.64  
+#20.00  +   Al2N2_w_opt /1                                                         -531.00  
+#15.00  +   Al2O3_co_opt2 /1  -Al2O3_co_sur_unr/1                                      -215.0
+# 2.50  +   Al2O3_co_opt2 /1  -Al2O3_co_sur_opt/1                                      -100.4
+# 2.00  +   Al_OH_3  /1  +  OH/1  -  Al_OH_4 /1                                   30.4
+#10.00  +   Al_OH_3  /1  +  OH/1  +  OH/1  -  Al_OH_5 /1                          78.8
+# 2.50  +   Al_OH_3  /1  +  OH/1  +  OH/1 + OH/1    -  Al_OH_6 /1                 78.4
+# 2.00  +   Al_NH2_3  /1  +  NH2/1  -  Al_NH2_4 /1                                   26.7
+#10.00  +   Al_NH2_3  /1  +  NH2/1  +  NH2/1  -  Al_NH2_5 /1                          93.9 
+# 2.50  +   Al_NH2_3  /1  +  NH2/1  +  NH2/1 + NH2/1    -  Al_NH2_6 /1                 64.5 
+# 1.00  +   Al4H6_opt  /1  +  AlOH3_opt /1  -  Al3H5O_opt /1 - Al2H4O2_opt /1         -2.03
+# 1.00  +   Al111_sur_O_tet  /1  -  Al111_sur_O_oct /1                                -10.00
+ENDENERGY

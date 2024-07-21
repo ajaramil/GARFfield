@@ -1,0 +1,10 @@
+units           real
+boundary p p p
+atom_style      charge
+atom_modify map array
+box tilt large
+read_data data.test.0
+pair_style reax/c NULL
+pair_coeff * * ffield.original C O 
+fix reax all qeq/reax 1 0.0 10.0 1.0e-6 reax/c
+run 0
