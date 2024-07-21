@@ -1,0 +1,10 @@
+#!/bin/csh
+#PBS -l nodes=1:ppn=10
+#PBS -l walltime=1000:00:00
+#PBS -m abe
+#PBS -N Cl2
+
+cd $PBS_O_WORKDIR
+
+mpirun -np 10 /project/ffopt/Garffield//bin/garffield_atomwag geo.new ffield trainset.in.new params -e RMSE -c 50 > log.out
+
