@@ -1,0 +1,46 @@
+#CHARGE
+#Keyw Weight Atom (a5,1x,f6.2,1x,i4)
+#ENDCHARGE
+#HEATFO
+#Keyw Weight Lit# (a5,1x,f6.2,f10.4)
+#ENDHEATFO
+GEOMETRY
+#Keyw Weight At1 At2 At3 At4 #Lit (a5,1x,f6.2,1x,4i4,f10.4)
+ENDGEOMETRY
+CELL PARAMETERS
+#Keyw Weight Type #Lit
+ENDCELL PARAMETERS
+ENERGY  
+#Weigh op1 Key1  n1  op2 Key2  n2  op3 Key3  n3  op4 Key4  n4  op5 Key5  n5  #Lit (f6.2,5(1x,a1,3x,a5,1x,i3),f10.4)  
+# Si-Si bond 
+30.0   +   geo5 /1   -   si1  /1                                             -162.30
+10.0   +   geo5 /1   -   si2  /1                                              -47.60
+ 5.0   +   geo5 /1   -   si3  /1                                               -9.60
+ 5.0   +   geo5 /1   -   si4  /1                                               -0.01
+ 5.0   +   geo5 /1   -   si5  /1                                               -5.30
+ 8.0   +   geo5 /1   -   si6  /1                                              -16.70
+ 8.0   +   geo5 /1   -   si7  /1                                              -28.50
+ 8.0   +   geo5 /1   -   si8  /1                                              -40.30
+ 8.0   +   geo5 /1   -   si9  /1                                              -51.30
+ 8.0   +   geo5 /1   -   si10 /1                                              -60.80
+ 2.0   +   geo5 /1   -   si11 /1                                              -74.90
+# Si=Si bond 
+20.0   +   si23 /1   -   si20 /1                                             -212.00
+10.0   +   si23 /1   -   si21 /1                                              -67.00
+ 4.0   +   si23 /1   -   si22 /1                                              -13.50
+ 4.0   +   si23 /1   -   si24 /1                                               -7.60
+ 4.0   +   si23 /1   -   si25 /1                                              -21.30
+ 4.0   +   si23 /1   -   si26 /1                                              -34.50
+ 8.0   +   si23 /1   -   si27 /1                                              -49.60
+ 8.0   +   si23 /1   -   si28 /1                                              -60.20
+ 8.0   +   si23 /1   -   si29 /1                                              -66.90
+ 8.0   +   si23 /1   -   si30 /1                                              -70.90
+ 8.0   +   si23 /1   -   si31 /1                                              -72.90
+# Si=O bond
+50.0   +   sio42/1   -   sio40/1                                             -237.90
+50.0   +   sio42/1   -   sio41/1                                              -38.10
+50.0   +   sio42/1   -   sio43/1                                              -17.90
+50.0   +   sio42/1   -   sio44/1                                              -51.90
+50.0   +   sio42/1   -   sio45/1                                              -86.90
+50.0   +   sio42/1   -   sio46/1                                             -117.50
+ENDENERGY

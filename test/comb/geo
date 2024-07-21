@@ -1,0 +1,330 @@
+BIOGRF 200
+DESCRP si1                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  1.6500 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00045  40.00000  40.85181    Si  1 1  0.19841
+HETATM     2 Si                 39.99955  40.00000  39.14819    Si  1 1  0.19841
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si2                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  1.8900 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 39.99965  40.00000  40.95902    Si  1 1  0.20724
+HETATM     2 Si                 40.00035  40.00000  39.04098    Si  1 1  0.20724
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si3                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  2.1100 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00051  40.00001  41.06095    Si  1 1  0.21301
+HETATM     2 Si                 39.99950  39.99999  38.93905    Si  1 1  0.21301
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si4                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  2.3500 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00047  40.00000  41.17437    Si  1 1  0.21730
+HETATM     2 Si                 39.99953  40.00000  38.82563    Si  1 1  0.21730
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si5                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  2.5900 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00054  40.00000  41.28948    Si  1 1  0.22048
+HETATM     2 Si                 39.99946  40.00000  38.71052    Si  1 1  0.22048
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si6                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  2.8300 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00077  40.00000  41.40734    Si  1 1  0.22301
+HETATM     2 Si                 39.99923  40.00000  38.59266    Si  1 1  0.22301
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si7                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  3.0600 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00107  40.00000  41.52570    Si  1 1  0.23670
+HETATM     2 Si                 39.99893  40.00000  38.47430    Si  1 1  0.23670
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si8                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  3.2900 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00106  40.00001  41.64432    Si  1 1  0.23750
+HETATM     2 Si                 39.99894  39.99999  38.35568    Si  1 1  0.23750
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si9                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  3.5300 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00166  40.00000  41.76508    Si  1 1  0.23891
+HETATM     2 Si                 39.99834  40.00000  38.23492    Si  1 1  0.23891
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si10                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  3.7600 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00113  40.00000  41.88002    Si  1 1  0.24347
+HETATM     2 Si                 39.99887  40.00000  38.11998    Si  1 1  0.24347
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si11                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  4.0000 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00107  40.00000  42.00001    Si  1 1  0.24345
+HETATM     2 Si                 39.99893  40.00000  37.99999    Si  1 1  0.24345
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si20                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  39.23957    Si  1 1  0.16252
+HETATM     2 Si                 40.00000  40.00000  40.76043    Si  1 1  0.16252
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si21                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  39.12973    Si  1 1  0.16626
+HETATM     2 Si                 40.00000  40.00000  40.87027    Si  1 1  0.16626
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si22                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  39.02484    Si  1 1  0.16940
+HETATM     2 Si                 40.00000  40.00000  40.97516    Si  1 1  0.16940
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si23                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.90998    Si  1 1  0.17227
+HETATM     2 Si                 40.00000  40.00000  41.09002    Si  1 1  0.17227
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si24                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.79518    Si  1 1  0.17459
+HETATM     2 Si                 40.00000  40.00000  41.20482    Si  1 1  0.17459
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si25                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.69041    Si  1 1  0.17627
+HETATM     2 Si                 40.00000  40.00000  41.30959    Si  1 1  0.17627
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si26                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.60064    Si  1 1  0.17745
+HETATM     2 Si                 40.00000  40.00000  41.39936    Si  1 1  0.17745
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si27                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.48075    Si  1 1  0.18741
+HETATM     2 Si                 40.00000  40.00000  41.51925    Si  1 1  0.18741
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si28                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.37041    Si  1 1  0.18743
+HETATM     2 Si                 40.00000  40.00000  41.62959    Si  1 1  0.18743
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si29                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.25999    Si  1 1  0.18746
+HETATM     2 Si                 40.00000  40.00000  41.74001    Si  1 1  0.18746
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si30                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.14486    Si  1 1  0.18746
+HETATM     2 Si                 40.00000  40.00000  41.85514    Si  1 1  0.18746
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si31                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.04486    Si  1 1  0.18746
+HETATM     2 Si                 40.00000  40.00000  41.95514    Si  1 1  0.18746
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sio40                                                       
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 O                  40.00000  40.00000  39.22303    O   1 1 -0.67452
+HETATM     2 Si                 40.00000  40.00000  40.35740    Si  1 1  0.74059
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sio41                                                       
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 O                  40.00000  40.00000  39.09256    O   1 1 -0.55751
+HETATM     2 Si                 40.00000  40.00000  40.42680    Si  1 1  0.61519
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sio42                                                       
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 O                  40.00000  40.00000  38.96250    O   1 1 -0.48080
+HETATM     2 Si                 40.00000  40.00000  40.49597    Si  1 1  0.53334
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sio43                                                       
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 O                  40.00000  40.00000  38.83240    O   1 1 -0.42794
+HETATM     2 Si                 40.00000  40.00000  40.56515    Si  1 1  0.47770
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sio44                                                       
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 O                  40.00000  40.00000  38.70229    O   1 1 -0.38982
+HETATM     2 Si                 40.00000  40.00000  40.63433    Si  1 1  0.43838
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sio45                                                       
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 O                  40.00000  40.00000  38.57215    O   1 1  0.00000
+HETATM     2 Si                 40.00000  40.00000  40.70354    Si  1 1  0.18434
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sio46                                                       
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 O                  40.00000  40.00000  38.44177    O   1 1  0.00000
+HETATM     2 Si                 40.00000  40.00000  40.77288    Si  1 1  0.18433
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP geo5                                                        
+REMARK                                                             
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.06366  39.72962  40.36876    Si  1 1  0.21500
+HETATM     2 Si                 38.93634  40.27038  39.63124    Si  1 1  0.21500
+FORMAT CONECT (a6,12i6)
+END
