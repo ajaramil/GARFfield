@@ -1,0 +1,1 @@
+./garffield geo ffield trainset.in params -l log -i percent -c 40 -t 1500 -p 100 -w ffield.best -d full_debug -x -e MSE

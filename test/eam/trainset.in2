@@ -1,0 +1,50 @@
+STRESS
+Cu_fcc_1.0 1.0 xx yy zz
+ENDSTRESS
+CELL PARAMETERS
+#Keyw  Weight  Type  #Lit
+Cu_fcc_1.0  5.00  a   3.614959
+Cu_fcc_1.0  5.00  c   3.614959
+Cu_fcc_1.0  5.00  b   3.614959
+ENDCELL PARAMETERS
+GEOMETRY
+#Keyw Weight At1 At2 At3 At4 #Lit (a5,1x,f6.2,1x,4i4,f10.4)
+Cu2_optim_param_2.285  4.0  1  2     2.2
+ENDGEOMETRY
+ENERGY
+# relative diff. between minima of different phases
+#1.0    +    Cu_fcc_1.0 / 4    -3.49
+# cohesive energies
+4.0 +  Cu2_optim_param_2.285/ 1   -2.05    
+## pes_scan data: energy difference between some non-optimal configuration and the optimal one
+#1.0    +  Cu2_param_0.6 / 2    -  Cu2_optim_param_2.285 / 2    366.952262914
+#1.0    +  Cu2_param_0.717 / 2    -  Cu2_optim_param_2.285 / 2    198.890289602
+#0.01    +  Cu2_param_0.834 / 2    -  Cu2_optim_param_2.285 / 2    108.199666494
+0.05    +  Cu2_param_0.952 / 2    -  Cu2_optim_param_2.285 / 2    59.8251399667
+0.05    +  Cu2_param_1.069 / 2    -  Cu2_optim_param_2.285 / 2    34.808418092
+0.1    +  Cu2_param_1.186 / 2    -  Cu2_optim_param_2.285 / 2    19.6230036569
+0.1    +  Cu2_param_1.303 / 2    -  Cu2_optim_param_2.285 / 2    11.2402817848
+0.1    +  Cu2_param_1.421 / 2    -  Cu2_optim_param_2.285 / 2    6.44355188681
+1.0    +  Cu2_param_1.538 / 2    -  Cu2_optim_param_2.285 / 2    3.66036744392
+1.0    +  Cu2_param_1.655 / 2    -  Cu2_optim_param_2.285 / 2    2.02448204769
+1.0    +  Cu2_param_1.772 / 2    -  Cu2_optim_param_2.285 / 2    1.06329441938
+1.0    +  Cu2_param_1.89 / 2    -  Cu2_optim_param_2.285 / 2    0.509509614421
+1.0    +  Cu2_param_2.007 / 2    -  Cu2_optim_param_2.285 / 2    0.205908584496
+1.0    +  Cu2_param_2.124 / 2    -  Cu2_optim_param_2.285 / 2    0.0569722999862
+1.0    +  Cu2_param_2.241 / 2    -  Cu2_optim_param_2.285 / 2    0.00350145318225
+1.0    +  Cu2_param_2.359 / 2    -  Cu2_optim_param_2.285 / 2    0.00846088889375
+1.0    +  Cu2_param_2.476 / 2    -  Cu2_optim_param_2.285 / 2    0.0485400601901
+1.0    +  Cu2_param_2.593 / 2    -  Cu2_optim_param_2.285 / 2    0.108982216327
+1.0    +  Cu2_param_2.71 / 2    -  Cu2_optim_param_2.285 / 2    0.180401443962
+1.0    +  Cu2_param_2.828 / 2    -  Cu2_optim_param_2.285 / 2    0.256812218126
+1.0    +  Cu2_param_2.945 / 2    -  Cu2_optim_param_2.285 / 2    0.334398256709
+1.0    +  Cu2_param_3.062 / 2    -  Cu2_optim_param_2.285 / 2    0.410747588146
+1.0    +  Cu2_param_3.179 / 2    -  Cu2_optim_param_2.285 / 2    0.484367719466
+1.0    +  Cu2_param_3.297 / 2    -  Cu2_optim_param_2.285 / 2    0.554377559281
+1.0    +  Cu2_param_3.414 / 2    -  Cu2_optim_param_2.285 / 2    0.620299903414
+1.0    +  Cu2_param_3.531 / 2    -  Cu2_optim_param_2.285 / 2    0.681924418554
+1.0    +  Cu2_param_3.648 / 2    -  Cu2_optim_param_2.285 / 2    0.739220444069
+1.0    +  Cu2_param_3.766 / 2    -  Cu2_optim_param_2.285 / 2    0.792281110982
+1.0    +  Cu2_param_3.883 / 2    -  Cu2_optim_param_2.285 / 2    0.841261638918
+1.0    +  Cu2_param_4.0 / 2    -  Cu2_optim_param_2.285 / 2    0.896382263663
+ENDENERGY
