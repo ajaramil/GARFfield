@@ -1,0 +1,3 @@
+DYLD_LIBRARY_PATH=/Users/Andres/Documents/Software/optimization/garffield/lib/lammps/src:/Users/Andres/Documents/Software/optimization/garffield/lib/pgapack/lib/mac:$DYLD_LIBRARY_PATH
+export DYLD_LIBRARY_PATH
+

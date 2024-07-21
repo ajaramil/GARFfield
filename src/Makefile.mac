@@ -1,0 +1,92 @@
+# Andres Jaramillo-Botero (ajaramil@caltech.edu)
+SHELL = /bin/sh
+
+ARCH 		= mac_mpi
+DEB 		= 1
+MPI_HOME 	= /usr/local
+#/usr/local/Cellar/open-mpi/2.0.1
+GARHOME		= /Users/Andres/Documents/Software/optimization/garffield1
+LAMMPS  	= /Users/Andres/Documents/Software/MD/lammps_svn/src
+#/Users/Andres/Documents/Software/MD/lammps_pqeq
+#${GARHOME}/lib/latest_lammps/src
+FFTW    	= /usr/local
+
+ifeq (${DEB},1)
+  POS = _debug
+  DEBUG = -DDEBUG
+endif
+
+# ---------------------------------------------------------------------
+# compiler/linker settings
+
+CC =		${MPI_HOME}/bin/mpicc
+CCFLAGS =	-g -DWL=64 -DFFT_FFTW -fno-inline ${DEBUG} -Wall -O2 -Wno-write-strings -fasm -m64  
+#-arch i386 -Dlinux
+#-DDEBUG_EVAL  used to debug the pgapack
+#-wd981 
+# -O2
+
+LINK =		${MPI_HOME}/bin/mpicc
+#/usr/local/bin/mpicc
+LINKFLAGS =	-O 
+LIB =           -lpthread -lstdc++ -lm
+SIZE =		size
+SRC :=          $(wildcard *.c)
+OBJ  =          $(SRC:%.c=%.o)
+EXE  =          ../bin/garffield_${ARCH}
+
+# --------- Libraries ----------
+# LAMMPS ----
+
+LAMMPS_PATH =   -L${LAMMPS}
+LAMMPS_INC =    -I${LAMMPS}
+LAMMPS_LIB =    -llammps_${ARCH}
+
+MPI_PATH =	-L${MPI_HOME}/lib
+MPI_INC =       -I${MPI_HOME}/include
+MPI_LIB =	-lmpi
+
+FFTW_PATH =     -L${FFTW}/lib
+FFTW_INC =      -I${FFTW}/include
+FFTW_LIB =      -lfftw3
+
+#FORTRAN_COMP_INC = -L/usr/local/gfortran/lib
+#FORTRAN_LIBS = -L/usr/local/gfortran/lib -lgfortran
+
+#REAXFF_PATH =   -L${LAMMPS}/lib/reax
+#REAXFF_INC =    -I${LAMMPS}/lib/reax
+#REAXFF_LIB =    -lreax
+
+# PGAPACK (modified) ------
+
+PGAPACK_PATH = 	-L${GARHOME}/lib/pgapack/lib/${ARCH}
+#/Users/andres/Documents/Software/optimization/garffield1/lib/pgapack/source
+#${GARHOME}/lib/pgapack/lib/${ARCH}
+PGAPACK_INC =	-I${GARHOME}/lib/pgapack/include 
+PGAPACK_LIB = 	-lpga
+
+# Optlist ----
+OPTLIST_PATH =  -L${GARHOME}/lib/optlist
+OPTLIST_INC = 	-I${GARHOME}/lib/optlist
+OPTLIST_LIB = 	-loptlist
+
+# ---------------------------------------------------------------------
+# build rules and dependencies
+# no need to edit this section
+
+EXTRA_INC = $(LAMMPS_INC) $(MPI_INC) $(FFTW_INC) ${PGAPACK_INC} ${REAXFF_INC} ${OPTLIST_INC} ${FORTRAN_COMP_INC}  
+EXTRA_LIB = $(MPI_PATH) $(LAMMPS_PATH) $(FFTW_PATH) ${PGAPACK_PATH} ${OPTLIST_PATH} ${REAXFF_PATH} ${FORTRAN_COMP_PATH} $(LAMMPS_LIB) $(MPI_LIB) $(FFTW_LIB) ${PGAPACK_LIB} ${OPTLIST_LIB} ${REAXFF_LIB} ${FORTRAN_LIBS} 
+
+# Link target
+
+# Build the code
+all:	$(OBJ)
+	$(LINK) $(LINKFLAGS) $(EXTRA_PATH) $(OBJ) $(EXTRA_LIB) $(LIB) -o $(EXE)
+	$(SIZE) $(EXE)
+
+%.o: %.c
+	$(CC) $(CCFLAGS) $(EXTRA_INC) -c $< -o $@
+
+clean:
+	rm -rf *.o
+	rm -rf garffield_${ARCH}

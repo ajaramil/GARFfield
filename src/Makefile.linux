@@ -1,0 +1,90 @@
+# Andres Jaramillo-Botero (ajaramil@caltech.edu)
+SHELL = /bin/sh
+
+ARCH 		= wolf
+DEB 		= 1
+MPI_HOME 	= /ul/ajaramil/lib/mpich2_${ARCH}
+LAMMPS  	= ../lib/lammps
+FFTW    	= /ul/ajaramil/lib/fftw3
+
+ifeq (${DEB},1)
+#  POS = _debug
+  POS = 
+  DEBUG = -DDEBUG
+endif
+
+# ---------------------------------------------------------------------
+# compiler/linker settings
+
+CC =		${MPI_HOME}/bin/mpicc
+CCFLAGS =	-g -Dlinux -DWL=64 -DFFT_FFTW -fno-inline ${DEBUG} 
+#-DDEBUG_EVAL  used to debug the pgapack
+#-wd981 
+# -O2
+
+LINK =		${MPI_HOME}/bin/mpicc
+LINKFLAGS =	-O 
+LIB =           -lpthread -lstdc++ -lm
+SIZE =		size
+SRC :=          $(wildcard *.c)
+OBJ  =          $(SRC:%.c=%.o)
+EXE  =          ../bin/garffield_${ARCH}${POS}
+
+# --------- Libraries ----------
+# LAMMPS ----
+
+LAMMPS_PATH =   -L${LAMMPS}/src
+LAMMPS_INC =    -I${LAMMPS}/src
+LAMMPS_LIB =    -llammps_${ARCH} -ljpeg
+
+MPI_PATH =	-L${MPI_HOME}/lib      
+MPI_INC =       -I${MPI_HOME}/include
+MPI_LIB =	-lmpich
+
+FFTW_PATH =     -L${FFTW}/lib
+FFTW_INC =      -I${FFTW}/include
+FFTW_LIB =      -lfftw3
+
+ifeq (${ARCH},hive)
+  FORTRAN_COMP_INC = -L/opt/intel/fce/9.0/include 
+  FORTRAN_COMP_PATH = 
+  FORTRAN_LIBS = -lifcore -lompstub -limf -lsvml -lirc
+else
+  FORTRAN_LIBS = -lgfortran
+endif
+
+REAXFF_PATH =   -L${LAMMPS}/lib/reax
+REAXFF_INC =    -I${LAMMPS}/lib/reax
+REAXFF_LIB =    -lreax_${ARCH}
+
+# PGAPACK (modified) ------
+
+PGAPACK_PATH = 	-L../lib/pgapack/lib/${ARCH}
+PGAPACK_INC =	-I../lib/pgapack/include 
+PGAPACK_LIB = 	-lpgag 
+
+# Optlist ----
+OPTLIST_PATH =  -L../lib/optlist
+OPTLIST_INC = 	-I../lib/optlist
+OPTLIST_LIB = 	-loptlist
+
+# ---------------------------------------------------------------------
+# build rules and dependencies
+# no need to edit this section
+
+EXTRA_INC = $(LAMMPS_INC) $(MPI_INC) $(FFTW_INC) ${PGAPACK_INC} ${REAXFF_INC} ${OPTLIST_INC} ${FORTRAN_COMP_INC}  
+EXTRA_LIB = $(MPI_PATH) $(LAMMPS_PATH) $(FFTW_PATH) ${PGAPACK_PATH} ${OPTLIST_PATH} ${REAXFF_PATH} ${FORTRAN_COMP_PATH} $(LAMMPS_LIB) $(MPI_LIB) $(FFTW_LIB) ${PGAPACK_LIB} ${OPTLIST_LIB} ${REAXFF_LIB} ${FORTRAN_LIBS} 
+
+# Link target
+
+# Build the code
+all:	$(OBJ)
+	$(LINK) $(LINKFLAGS) $(EXTRA_PATH) $(OBJ) $(EXTRA_LIB) $(LIB) -o $(EXE)
+	$(SIZE) $(EXE)
+
+%.o: %.c
+	$(CC) $(CCFLAGS) $(EXTRA_INC) -c $< -o $@
+
+clean:
+	rm -rf *.o
+#	rm -rf garffield_${ARCH}
