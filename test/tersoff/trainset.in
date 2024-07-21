@@ -1,0 +1,42 @@
+STRESS
+Si_bcc_0.90  1.00 xx 3.2
+ENDSTRESS
+CELL PARAMETERS
+#Keyw  Weight  Type  #Lit
+Si_expt  3.00  a   5.431
+Si_expt  3.00  c   5.431
+Si_expt  3.00  b   5.431
+ENDCELL PARAMETERS
+ENERGY
+# bcc eos data for Si
+1.00	+	Si_bcc_1.00/1	-	Si_bcc_0.90/1	   0.05491
+1.00	+	Si_bcc_1.00/1	-	Si_bcc_0.94/1	   0.01752
+1.00	+	Si_bcc_1.00/1	-	Si_bcc_0.98/1	   0.00186
+2.00	+	Si_bcc_1.00/1	-	Si_bcc_0.99/1	   0.00047
+2.00	+	Si_bcc_1.00/1	-	Si_bcc_1.01/1	   0.00039
+1.00	+	Si_bcc_1.00/1	-	Si_bcc_1.02/1	   0.00159
+1.00	+	Si_bcc_1.00/1	-	Si_bcc_1.06/1	   0.01052
+# diamond eos data for Si
+2.00	+	Si_diamond_1.00/2	-	Si_diamond_0.90/2	   0.06862
+2.00	+	Si_diamond_1.00/2	-	Si_diamond_0.94/2	   0.02303
+4.00	+	Si_diamond_1.00/2	-	Si_diamond_0.98/2	   0.00244
+4.00	+	Si_diamond_1.00/2	-	Si_diamond_0.99/2	   0.00062
+4.00	+	Si_diamond_1.00/2	-	Si_diamond_1.01/2	   0.00051
+2.00	+	Si_diamond_1.00/2	-	Si_diamond_1.02/2	   0.00210
+2.00	+	Si_diamond_1.00/2	-	Si_diamond_1.06/2	   0.01814
+## sc eos data for Si
+1.00	+	Si_sc_1.00/1	-	Si_sc_0.90/1	   0.06373
+1.00	+	Si_sc_1.00/1	-	Si_sc_0.94/1	   0.02264
+1.00	+	Si_sc_1.00/1	-	Si_sc_0.98/1	   0.00219
+3.00	+	Si_sc_1.00/1	-	Si_sc_0.99/1	   0.00056
+3.00	+	Si_sc_1.00/1	-	Si_sc_1.01/1	   0.00046
+1.00	+	Si_sc_1.00/1	-	Si_sc_1.02/1	   0.00189
+1.00	+	Si_sc_1.00/1	-	Si_sc_1.06/1	   0.01630
+## relative diff. between minima of different phases
+5.00	+	Si_diamond_1.00/2	-	Si_sc_1.00/1	   0.35134
+5.00	+	Si_diamond_1.00/2	-	Si_hcp_1.00/2	   0.50853
+2.00	+	Si_diamond_1.00/2	-	Si_bcc_1.00/1	   0.52364
+2.00	+	Si_diamond_1.00/2	-	Si_fcc_1.00/1	   0.53779
+# cohesive energies
+9.00	+	Si_expt/8			-4.63000
+ENDENERGY
