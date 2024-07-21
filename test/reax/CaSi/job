@@ -1,0 +1,10 @@
+#!/bin/csh
+#PBS -l nodes=1:ppn=4
+#PBS -l walltime=1000:00:00
+#PBS -m abe
+#PBS -N SiO2
+
+cd $PBS_O_WORKDIR
+
+../../bin/garffield_wolf geo ffield trainset.in params -c 40 -s 'nochange' -t 2000 > log.out
+
