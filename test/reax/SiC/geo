@@ -1,0 +1,2158 @@
+BIOGRF 200
+DESCRP si1                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  1.6500 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00045  40.00000  40.85181    Si  1 1  0.19841
+HETATM     2 Si                 39.99955  40.00000  39.14819    Si  1 1  0.19841
+HETATM     3 H                  41.37494  40.00000  38.58846    H   1 1 -0.06614
+HETATM     4 H                  38.62506  40.00000  41.41154    H   1 1 -0.06614
+HETATM     5 H                  39.31141  41.19137  38.58954    H   1 1 -0.06614
+HETATM     6 H                  39.31141  38.80863  38.58954    H   1 1 -0.06614
+HETATM     7 H                  40.68859  41.19137  41.41046    H   1 1 -0.06614
+HETATM     8 H                  40.68859  38.80863  41.41046    H   1 1 -0.06614
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si2                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  1.8900 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 39.99965  40.00000  40.95902    Si  1 1  0.20724
+HETATM     2 Si                 40.00035  40.00000  39.04098    Si  1 1  0.20724
+HETATM     3 H                  41.37385  40.00000  38.47679    H   1 1 -0.06908
+HETATM     4 H                  38.62615  40.00000  41.52321    H   1 1 -0.06908
+HETATM     5 H                  39.31392  41.18931  38.47600    H   1 1 -0.06908
+HETATM     6 H                  39.31392  38.81069  38.47600    H   1 1 -0.06908
+HETATM     7 H                  40.68608  41.18931  41.52400    H   1 1 -0.06908
+HETATM     8 H                  40.68608  38.81069  41.52400    H   1 1 -0.06908
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si3                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  2.1100 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00051  40.00001  41.06095    Si  1 1  0.21301
+HETATM     2 Si                 39.99950  39.99999  38.93905    Si  1 1  0.21301
+HETATM     3 H                  41.36966  39.99999  38.37527    H   1 1 -0.07100
+HETATM     4 H                  38.63033  40.00004  41.62471    H   1 1 -0.07100
+HETATM     5 H                  39.31401  41.18681  38.37625    H   1 1 -0.07100
+HETATM     6 H                  39.31400  38.81317  38.37625    H   1 1 -0.07100
+HETATM     7 H                  40.68601  41.18683  41.62373    H   1 1 -0.07100
+HETATM     8 H                  40.68597  38.81318  41.62379    H   1 1 -0.07100
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si4                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  2.3500 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00047  40.00000  41.17437    Si  1 1  0.21730
+HETATM     2 Si                 39.99953  40.00000  38.82563    Si  1 1  0.21730
+HETATM     3 H                  41.36906  40.00000  38.26267    H   1 1 -0.07243
+HETATM     4 H                  38.63094  40.00000  41.73733    H   1 1 -0.07243
+HETATM     5 H                  39.31443  41.18623  38.26347    H   1 1 -0.07243
+HETATM     6 H                  39.31443  38.81377  38.26347    H   1 1 -0.07243
+HETATM     7 H                  40.68557  41.18623  41.73653    H   1 1 -0.07243
+HETATM     8 H                  40.68557  38.81377  41.73653    H   1 1 -0.07243
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si5                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  2.5900 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00054  40.00000  41.28948    Si  1 1  0.22048
+HETATM     2 Si                 39.99946  40.00000  38.71052    Si  1 1  0.22048
+HETATM     3 H                  41.37244  40.00000  38.14967    H   1 1 -0.07350
+HETATM     4 H                  38.62756  40.00000  41.85033    H   1 1 -0.07350
+HETATM     5 H                  39.31262  41.18926  38.15052    H   1 1 -0.07349
+HETATM     6 H                  39.31262  38.81074  38.15052    H   1 1 -0.07349
+HETATM     7 H                  40.68738  41.18926  41.84948    H   1 1 -0.07349
+HETATM     8 H                  40.68738  38.81074  41.84948    H   1 1 -0.07349
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si6                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  2.8300 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00077  40.00000  41.40734    Si  1 1  0.22301
+HETATM     2 Si                 39.99923  40.00000  38.59266    Si  1 1  0.22301
+HETATM     3 H                  41.38212  40.00000  38.04900    H   1 1 -0.07434
+HETATM     4 H                  38.61788  40.00000  41.95100    H   1 1 -0.07434
+HETATM     5 H                  39.30736  41.19787  38.05010    H   1 1 -0.07434
+HETATM     6 H                  39.30736  38.80213  38.05010    H   1 1 -0.07434
+HETATM     7 H                  40.69264  41.19787  41.94990    H   1 1 -0.07434
+HETATM     8 H                  40.69264  38.80213  41.94990    H   1 1 -0.07434
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si7                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  3.0600 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00107  40.00000  41.52570    Si  1 1  0.23670
+HETATM     2 Si                 39.99893  40.00000  38.47430    Si  1 1  0.23670
+HETATM     3 H                  41.41426  40.00000  37.98919    H   1 1 -0.07890
+HETATM     4 H                  38.58574  40.00000  42.01081    H   1 1 -0.07890
+HETATM     5 H                  39.29076  41.22599  37.99060    H   1 1 -0.07890
+HETATM     6 H                  39.29076  38.77401  37.99060    H   1 1 -0.07890
+HETATM     7 H                  40.70924  41.22599  42.00940    H   1 1 -0.07890
+HETATM     8 H                  40.70924  38.77401  42.00940    H   1 1 -0.07890
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si8                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  3.2900 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00106  40.00001  41.64432    Si  1 1  0.23750
+HETATM     2 Si                 39.99894  39.99999  38.35568    Si  1 1  0.23750
+HETATM     3 H                  41.43330  40.00000  37.96465    H   1 1 -0.07917
+HETATM     4 H                  38.56670  40.00000  42.03537    H   1 1 -0.07917
+HETATM     5 H                  39.28154  41.24233  37.96543    H   1 1 -0.07917
+HETATM     6 H                  39.28154  38.75766  37.96539    H   1 1 -0.07917
+HETATM     7 H                  40.71846  41.24234  42.03457    H   1 1 -0.07917
+HETATM     8 H                  40.71847  38.75767  42.03457    H   1 1 -0.07917
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si9                                                         
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  3.5300 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00166  40.00000  41.76508    Si  1 1  0.23891
+HETATM     2 Si                 39.99834  40.00000  38.23492    Si  1 1  0.23891
+HETATM     3 H                  41.43421  40.00000  37.85388    H   1 1 -0.07964
+HETATM     4 H                  38.56579  40.00000  42.14612    H   1 1 -0.07964
+HETATM     5 H                  39.28048  41.24346  37.85368    H   1 1 -0.07964
+HETATM     6 H                  39.28048  38.75654  37.85368    H   1 1 -0.07964
+HETATM     7 H                  40.71952  41.24346  42.14632    H   1 1 -0.07964
+HETATM     8 H                  40.71952  38.75654  42.14632    H   1 1 -0.07964
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si10                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  3.7600 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00113  40.00000  41.88002    Si  1 1  0.24347
+HETATM     2 Si                 39.99887  40.00000  38.11998    Si  1 1  0.24347
+HETATM     3 H                  41.43498  40.00000  37.74101    H   1 1 -0.08116
+HETATM     4 H                  38.56502  40.00000  42.25899    H   1 1 -0.08116
+HETATM     5 H                  39.28087  41.24367  37.74084    H   1 1 -0.08116
+HETATM     6 H                  39.28087  38.75633  37.74084    H   1 1 -0.08116
+HETATM     7 H                  40.71913  41.24367  42.25916    H   1 1 -0.08116
+HETATM     8 H                  40.71913  38.75633  42.25916    H   1 1 -0.08116
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si11                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  4.0000 2500.00 1.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00107  40.00000  42.00001    Si  1 1  0.24345
+HETATM     2 Si                 39.99893  40.00000  37.99999    Si  1 1  0.24345
+HETATM     3 H                  41.43482  40.00000  37.61952    H   1 1 -0.08115
+HETATM     4 H                  38.56518  40.00000  42.38048    H   1 1 -0.08115
+HETATM     5 H                  39.28072  41.24368  37.62060    H   1 1 -0.08115
+HETATM     6 H                  39.28072  38.75632  37.62060    H   1 1 -0.08115
+HETATM     7 H                  40.71928  41.24368  42.37940    H   1 1 -0.08115
+HETATM     8 H                  40.71928  38.75632  42.37940    H   1 1 -0.08115
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si20                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  39.23957    Si  1 1  0.16252
+HETATM     2 Si                 40.00000  40.00000  40.76043    Si  1 1  0.16252
+HETATM     3 H                  38.69847  40.00000  41.47259    H   1 1 -0.08126
+HETATM     4 H                  41.30153  40.00000  38.52741    H   1 1 -0.08126
+HETATM     5 H                  38.69847  40.00000  38.52741    H   1 1 -0.08126
+HETATM     6 H                  41.30153  40.00000  41.47259    H   1 1 -0.08126
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si21                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  39.12973    Si  1 1  0.16626
+HETATM     2 Si                 40.00000  40.00000  40.87027    Si  1 1  0.16626
+HETATM     3 H                  38.69847  40.00000  41.58259    H   1 1 -0.08313
+HETATM     4 H                  41.30153  40.00000  38.41741    H   1 1 -0.08313
+HETATM     5 H                  38.69847  40.00000  38.41741    H   1 1 -0.08313
+HETATM     6 H                  41.30153  40.00000  41.58259    H   1 1 -0.08313
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si22                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  39.02484    Si  1 1  0.16940
+HETATM     2 Si                 40.00000  40.00000  40.97516    Si  1 1  0.16940
+HETATM     3 H                  38.69847  40.00000  41.68759    H   1 1 -0.08470
+HETATM     4 H                  41.30153  40.00000  38.31241    H   1 1 -0.08470
+HETATM     5 H                  38.69847  40.00000  38.31241    H   1 1 -0.08470
+HETATM     6 H                  41.30153  40.00000  41.68759    H   1 1 -0.08470
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si23                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.90998    Si  1 1  0.17227
+HETATM     2 Si                 40.00000  40.00000  41.09002    Si  1 1  0.17227
+HETATM     3 H                  38.69847  40.00000  41.80259    H   1 1 -0.08614
+HETATM     4 H                  41.30153  40.00000  38.19741    H   1 1 -0.08614
+HETATM     5 H                  38.69847  40.00000  38.19741    H   1 1 -0.08614
+HETATM     6 H                  41.30153  40.00000  41.80259    H   1 1 -0.08614
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si24                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.79518    Si  1 1  0.17459
+HETATM     2 Si                 40.00000  40.00000  41.20482    Si  1 1  0.17459
+HETATM     3 H                  38.69847  40.00000  41.91759    H   1 1 -0.08729
+HETATM     4 H                  41.30153  40.00000  38.08241    H   1 1 -0.08729
+HETATM     5 H                  38.69847  40.00000  38.08241    H   1 1 -0.08729
+HETATM     6 H                  41.30153  40.00000  41.91759    H   1 1 -0.08729
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si25                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.69041    Si  1 1  0.17627
+HETATM     2 Si                 40.00000  40.00000  41.30959    Si  1 1  0.17627
+HETATM     3 H                  38.69847  40.00000  42.02259    H   1 1 -0.08814
+HETATM     4 H                  41.30153  40.00000  37.97741    H   1 1 -0.08814
+HETATM     5 H                  38.69847  40.00000  37.97741    H   1 1 -0.08814
+HETATM     6 H                  41.30153  40.00000  42.02259    H   1 1 -0.08814
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si26                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.60064    Si  1 1  0.17745
+HETATM     2 Si                 40.00000  40.00000  41.39936    Si  1 1  0.17745
+HETATM     3 H                  38.69847  40.00000  42.11259    H   1 1 -0.08872
+HETATM     4 H                  41.30153  40.00000  37.88741    H   1 1 -0.08872
+HETATM     5 H                  38.69847  40.00000  37.88741    H   1 1 -0.08872
+HETATM     6 H                  41.30153  40.00000  42.11259    H   1 1 -0.08872
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si27                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.48075    Si  1 1  0.18741
+HETATM     2 Si                 40.00000  40.00000  41.51925    Si  1 1  0.18741
+HETATM     3 H                  38.69847  40.00000  42.23259    H   1 1 -0.09370
+HETATM     4 H                  41.30153  40.00000  37.76741    H   1 1 -0.09370
+HETATM     5 H                  38.69847  40.00000  37.76741    H   1 1 -0.09370
+HETATM     6 H                  41.30153  40.00000  42.23259    H   1 1 -0.09370
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si28                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.37041    Si  1 1  0.18743
+HETATM     2 Si                 40.00000  40.00000  41.62959    Si  1 1  0.18743
+HETATM     3 H                  38.69847  40.00000  42.34258    H   1 1 -0.09372
+HETATM     4 H                  41.30153  40.00000  37.65742    H   1 1 -0.09372
+HETATM     5 H                  38.69847  40.00000  37.65742    H   1 1 -0.09372
+HETATM     6 H                  41.30153  40.00000  42.34258    H   1 1 -0.09372
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si29                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.25999    Si  1 1  0.18746
+HETATM     2 Si                 40.00000  40.00000  41.74001    Si  1 1  0.18746
+HETATM     3 H                  38.69847  40.00000  42.45258    H   1 1 -0.09373
+HETATM     4 H                  41.30153  40.00000  37.54742    H   1 1 -0.09373
+HETATM     5 H                  38.69847  40.00000  37.54742    H   1 1 -0.09373
+HETATM     6 H                  41.30153  40.00000  42.45258    H   1 1 -0.09373
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si30                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.14486    Si  1 1  0.18746
+HETATM     2 Si                 40.00000  40.00000  41.85514    Si  1 1  0.18746
+HETATM     3 H                  38.69847  40.00000  42.56758    H   1 1 -0.09373
+HETATM     4 H                  41.30153  40.00000  37.43242    H   1 1 -0.09373
+HETATM     5 H                  38.69847  40.00000  37.43242    H   1 1 -0.09373
+HETATM     6 H                  41.30153  40.00000  42.56758    H   1 1 -0.09373
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si31                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00000  40.00000  38.04486    Si  1 1  0.18746
+HETATM     2 Si                 40.00000  40.00000  41.95514    Si  1 1  0.18746
+HETATM     3 H                  38.69847  40.00000  42.66758    H   1 1 -0.09373
+HETATM     4 H                  41.30153  40.00000  37.33242    H   1 1 -0.09373
+HETATM     5 H                  38.69847  40.00000  37.33242    H   1 1 -0.09373
+HETATM     6 H                  41.30153  40.00000  42.66758    H   1 1 -0.09373
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sih1                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 39.99641  40.00622  40.00254    Si  1 1  0.29617
+HETATM     2 H                  41.34155  40.00664  40.47838    H   1 1 -0.07046
+HETATM     3 H                  39.99617  40.00664  38.57571    H   1 1 -0.07046
+HETATM     4 H                  39.32347  38.84150  40.47837    H   1 1 -0.07046
+HETATM     5 H                  39.43870  40.97220  40.39690    H   1 1 -0.08480
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sih2                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 39.99868  40.00228  40.00093    Si  1 1  0.28823
+HETATM     2 H                  41.34397  40.00244  40.47666    H   1 1 -0.07082
+HETATM     3 H                  39.99859  40.00244  38.57400    H   1 1 -0.07082
+HETATM     4 H                  39.32590  38.83730  40.47666    H   1 1 -0.07082
+HETATM     5 H                  39.36821  41.09429  40.44674    H   1 1 -0.07577
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sih3                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00085  39.99853  39.99940    Si  1 1  0.28170
+HETATM     2 H                  41.34629  39.99842  40.47503    H   1 1 -0.07117
+HETATM     3 H                  40.00091  39.99842  38.57237    H   1 1 -0.07117
+HETATM     4 H                  39.32822  38.83329  40.47502    H   1 1 -0.07117
+HETATM     5 H                  39.30092  41.21084  40.49433    H   1 1 -0.06818
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sih4                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00305  39.99473  39.99785    Si  1 1  0.27620
+HETATM     2 H                  41.34865  39.99434  40.47336    H   1 1 -0.07155
+HETATM     3 H                  40.00327  39.99434  38.57070    H   1 1 -0.07155
+HETATM     4 H                  39.33059  38.82920  40.47335    H   1 1 -0.07155
+HETATM     5 H                  39.23274  41.32894  40.54254    H   1 1 -0.06156
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sih5                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00525  39.99091  39.99629    Si  1 1  0.27170
+HETATM     2 H                  41.35095  39.99034  40.47173    H   1 1 -0.07192
+HETATM     3 H                  40.00558  39.99034  38.56907    H   1 1 -0.07192
+HETATM     4 H                  39.33289  38.82521  40.47172    H   1 1 -0.07192
+HETATM     5 H                  39.16443  41.44725  40.59084    H   1 1 -0.05594
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sih6                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00744  39.98711  39.99474    Si  1 1  0.26809
+HETATM     2 H                  41.35313  39.98656  40.47018    H   1 1 -0.07229
+HETATM     3 H                  40.00776  39.98656  38.56753    H   1 1 -0.07229
+HETATM     4 H                  39.33507  38.82143  40.47018    H   1 1 -0.07229
+HETATM     5 H                  39.09684  41.56431  40.63863    H   1 1 -0.05123
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sih7                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00963  39.98332  39.99319    Si  1 1  0.24336
+HETATM     2 H                  41.35532  39.98276  40.46862    H   1 1 -0.08112
+HETATM     3 H                  40.00995  39.98276  38.56597    H   1 1 -0.08112
+HETATM     4 H                  39.33726  38.81763  40.46862    H   1 1 -0.08112
+HETATM     5 H                  39.02928  41.68133  40.68640    H   1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sih8                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.01173  39.97969  39.99171    Si  1 1  0.24335
+HETATM     2 H                  41.35747  39.97905  40.46712    H   1 1 -0.08112
+HETATM     3 H                  40.01210  39.97905  38.56447    H   1 1 -0.08112
+HETATM     4 H                  39.33941  38.81392  40.46712    H   1 1 -0.08112
+HETATM     5 H                  38.96455  41.79345  40.73218    H   1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sih9                                                        
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.01404  39.97568  39.99007    Si  1 1  0.24335
+HETATM     2 H                  41.35978  39.97506  40.46548    H   1 1 -0.08112
+HETATM     3 H                  40.01440  39.97506  38.56283    H   1 1 -0.08112
+HETATM     4 H                  39.34171  38.80993  40.46548    H   1 1 -0.08112
+HETATM     5 H                  38.89332  41.91682  40.78254    H   1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sih10                                                       
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.01625  39.97185  39.98851    Si  1 1  0.24338
+HETATM     2 H                  41.36185  39.97149  40.46402    H   1 1 -0.08113
+HETATM     3 H                  40.01646  39.97149  38.56136    H   1 1 -0.08112
+HETATM     4 H                  39.34377  38.80635  40.46402    H   1 1 -0.08113
+HETATM     5 H                  38.82552  42.03427  40.83048    H   1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sih11                                                       
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.01840  39.96814  39.98699    Si  1 1  0.24340
+HETATM     2 H                  41.36382  39.96808  40.46264    H   1 1 -0.08113
+HETATM     3 H                  40.01843  39.96808  38.55997    H   1 1 -0.08113
+HETATM     4 H                  39.34574  38.80294  40.46263    H   1 1 -0.08113
+HETATM     5 H                  38.75991  42.14790  40.87687    H   1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sih12                                                       
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.02062  39.96428  39.98542    Si  1 1  0.24342
+HETATM     2 H                  41.36592  39.96442  40.46114    H   1 1 -0.08114
+HETATM     3 H                  40.02054  39.96442  38.55848    H   1 1 -0.08114
+HETATM     4 H                  39.34785  38.79928  40.46114    H   1 1 -0.08114
+HETATM     5 H                  38.69167  42.26609  40.92512    H   1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sih13                                                       
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.02293  39.96028  39.98379    Si  1 1  0.24342
+HETATM     2 H                  41.36823  39.96042  40.45951    H   1 1 -0.08114
+HETATM     3 H                  40.02285  39.96042  38.55685    H   1 1 -0.08114
+HETATM     4 H                  39.35015  38.79528  40.45951    H   1 1 -0.08114
+HETATM     5 H                  38.62044  42.38945  40.97549    H   1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP sih14                                                       
+REMARK                                                             
+RUTYPE MAXIT     1
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.02515  39.95644  39.98222    Si  1 1  0.24342
+HETATM     2 H                  41.37045  39.95657  40.45794    H   1 1 -0.08114
+HETATM     3 H                  40.02507  39.95657  38.55528    H   1 1 -0.08114
+HETATM     4 H                  39.35238  38.79143  40.45794    H   1 1 -0.08114
+HETATM     5 H                  38.55195  42.50808  41.02392    H   1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP geo5                                                        
+REMARK                                                             
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.06366  39.72962  40.36876    Si  1 1  0.21500
+HETATM     2 Si                 38.93634  40.27038  39.63124    Si  1 1  0.21500
+HETATM     3 H                  38.90574  41.59062  38.95684    H   1 1 -0.07166
+HETATM     4 H                  41.09426  38.40938  41.04316    H   1 1 -0.07166
+HETATM     5 H                  37.96419  40.33147  40.74928    H   1 1 -0.07167
+HETATM     6 H                  38.41983  39.27525  38.66084    H   1 1 -0.07166
+HETATM     7 H                  41.58017  40.72475  41.33916    H   1 1 -0.07166
+HETATM     8 H                  42.03581  39.66853  39.25072    H   1 1 -0.07167
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP geo9                                                        
+REMARK                                                             
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.25661  38.97266  39.54085    Si  1 1  0.16921
+HETATM     2 Si                 39.74339  41.02734  40.45915    Si  1 1  0.16921
+HETATM     3 H                  40.28661  38.75932  38.09331    H   1 1 -0.08461
+HETATM     4 H                  39.42957  42.18902  39.62620    H   1 1 -0.08461
+HETATM     5 H                  40.57043  37.81098  40.37380    H   1 1 -0.08461
+HETATM     6 H                  39.71339  41.24068  41.90669    H   1 1 -0.08461
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP geo7                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.96216  39.63696  40.39361    Si  1 1  0.20727
+HETATM     2 Si                 38.91591  40.36033  39.58117    Si  1 1  0.13090
+HETATM     3 H                  39.04275  41.68554  38.93757    H   1 1 -0.08941
+HETATM     4 H                  40.86479  38.30572  41.04621    H   1 1 -0.08702
+HETATM     5 H                  41.51612  40.56955  41.40139    H   1 1 -0.08087
+HETATM     6 H                  41.97081  39.51437  39.31667    H   1 1 -0.08087
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP geo4                                                        
+REMARK                                                             
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.41716  40.00009  38.64141    Si  1 1  0.21311
+HETATM     2 Si                 39.27231  39.99998  39.51342    Si  1 1  0.15577
+HETATM     3 Si                 39.28592  39.99993  41.82871    Si  1 1  0.21311
+HETATM     4 H                  41.39105  40.00013  37.15959    H   1 1 -0.06798
+HETATM     5 H                  42.19332  38.80629  39.06256    H   1 1 -0.07366
+HETATM     6 H                  42.19322  41.19393  39.06262    H   1 1 -0.07366
+HETATM     7 H                  38.52865  38.82331  39.01611    H   1 1 -0.07569
+HETATM     8 H                  38.52854  41.17661  39.01617    H   1 1 -0.07569
+HETATM     9 H                  37.90655  39.99984  42.37072    H   1 1 -0.06798
+HETATM    10 H                  39.97160  41.19377  42.38509    H   1 1 -0.07366
+HETATM    11 H                  39.97171  38.80612  42.38504    H   1 1 -0.07366
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a4_1                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3   79.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.08093  39.84113  40.31690    Si  1 1  0.22088
+HETATM     2 Si                 38.89865  40.14313  39.68656    Si  1 1  0.21871
+HETATM     3 H                  39.49490  41.39193  39.18815    H   1 1 -0.07935
+HETATM     4 H                  41.26639  38.54642  41.01211    H   1 1 -0.07458
+HETATM     5 H                  37.89642  40.42215  40.72224    H   1 1 -0.07387
+HETATM     6 H                  38.36631  39.34186  38.57772    H   1 1 -0.07387
+HETATM     7 H                  41.54424  40.89469  41.24360    H   1 1 -0.06896
+HETATM     8 H                  42.00021  39.84122  39.16001    H   1 1 -0.06896
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a4_2                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3   95.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.07592  39.78276  40.34460    Si  1 1  0.21661
+HETATM     2 Si                 38.91387  40.20856  39.65758    Si  1 1  0.21632
+HETATM     3 H                  39.21220  41.52845  39.05362    H   1 1 -0.07467
+HETATM     4 H                  41.18086  38.47320  41.02937    H   1 1 -0.07289
+HETATM     5 H                  37.92219  40.37500  40.74183    H   1 1 -0.07245
+HETATM     6 H                  38.38494  39.29887  38.61861    H   1 1 -0.07245
+HETATM     7 H                  41.56404  40.81112  41.29256    H   1 1 -0.07023
+HETATM     8 H                  42.01992  39.75522  39.20334    H   1 1 -0.07023
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a4_3                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  103.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.07003  39.75618  40.35703    Si  1 1  0.21575
+HETATM     2 Si                 38.92497  40.23918  39.64422    Si  1 1  0.21571
+HETATM     3 H                  39.06364  41.56834  39.00229    H   1 1 -0.07304
+HETATM     4 H                  41.13737  38.44150  41.03624    H   1 1 -0.07227
+HETATM     5 H                  37.93895  40.35191  40.74603    H   1 1 -0.07204
+HETATM     6 H                  38.39948  39.28553  38.63756    H   1 1 -0.07204
+HETATM     7 H                  41.57175  40.76905  41.31620    H   1 1 -0.07104
+HETATM     8 H                  42.02827  39.71299  39.22676    H   1 1 -0.07104
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a4_4                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  107.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.06680  39.74355  40.36289    Si  1 1  0.21538
+HETATM     2 Si                 38.93074  40.25398  39.63782    Si  1 1  0.21537
+HETATM     3 H                  38.98809  41.58092  38.97984    H   1 1 -0.07232
+HETATM     4 H                  41.11599  38.42691  41.03914    H   1 1 -0.07196
+HETATM     5 H                  37.94942  40.34048  40.74781    H   1 1 -0.07184
+HETATM     6 H                  38.40868  39.27933  38.64783    H   1 1 -0.07184
+HETATM     7 H                  41.57485  40.74865  41.32741    H   1 1 -0.07140
+HETATM     8 H                  42.03173  39.69267  39.23818    H   1 1 -0.07139
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a4_5                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  109.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.06495  39.73697  40.36579    Si  1 1  0.21521
+HETATM     2 Si                 38.93383  40.26169  39.63462    Si  1 1  0.21518
+HETATM     3 H                  38.95098  41.58560  38.96896    H   1 1 -0.07197
+HETATM     4 H                  41.10433  38.41935  41.04038    H   1 1 -0.07181
+HETATM     5 H                  37.95553  40.33606  40.74865    H   1 1 -0.07175
+HETATM     6 H                  38.41348  39.27667  38.65346    H   1 1 -0.07175
+HETATM     7 H                  41.57650  40.73783  41.33317    H   1 1 -0.07156
+HETATM     8 H                  42.03327  39.68185  39.24393    H   1 1 -0.07156
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a4_6                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  110.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.06395  39.73358  40.36729    Si  1 1  0.21513
+HETATM     2 Si                 38.93543  40.26564  39.63297    Si  1 1  0.21509
+HETATM     3 H                  38.93254  41.58781  38.96415    H   1 1 -0.07180
+HETATM     4 H                  41.09872  38.41547  41.04105    H   1 1 -0.07173
+HETATM     5 H                  37.95853  40.33367  40.74881    H   1 1 -0.07170
+HETATM     6 H                  38.41619  39.27592  38.65579    H   1 1 -0.07170
+HETATM     7 H                  41.57708  40.73242  41.33606    H   1 1 -0.07164
+HETATM     8 H                  42.03391  39.67654  39.24686    H   1 1 -0.07164
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a4_7                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  111.10 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.06336  39.73158  40.36815    Si  1 1  0.21508
+HETATM     2 Si                 38.93640  40.26798  39.63202    Si  1 1  0.21503
+HETATM     3 H                  38.92151  41.58883  38.96099    H   1 1 -0.07170
+HETATM     4 H                  41.09501  38.41322  41.04137    H   1 1 -0.07168
+HETATM     5 H                  37.96056  40.33254  40.74907    H   1 1 -0.07168
+HETATM     6 H                  38.41774  39.27517  38.65759    H   1 1 -0.07167
+HETATM     7 H                  41.57762  40.72907  41.33782    H   1 1 -0.07169
+HETATM     8 H                  42.03439  39.67315  39.24860    H   1 1 -0.07169
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a4_8                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  113.10 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.06137  39.72517  40.37094    Si  1 1  0.21490
+HETATM     2 Si                 38.93959  40.27555  39.62890    Si  1 1  0.21483
+HETATM     3 H                  38.88433  41.59135  38.95147    H   1 1 -0.07138
+HETATM     4 H                  41.08396  38.40604  41.04258    H   1 1 -0.07152
+HETATM     5 H                  37.96734  40.32802  40.74969    H   1 1 -0.07158
+HETATM     6 H                  38.42339  39.27297  38.66323    H   1 1 -0.07158
+HETATM     7 H                  41.57874  40.71865  41.34321    H   1 1 -0.07184
+HETATM     8 H                  42.03547  39.66282  39.25414    H   1 1 -0.07184
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a4_9                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  117.10 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.05697  39.71231  40.37669    Si  1 1  0.21454
+HETATM     2 Si                 38.94632  40.29083  39.62246    Si  1 1  0.21437
+HETATM     3 H                  38.81067  41.59390  38.93518    H   1 1 -0.07074
+HETATM     4 H                  41.06017  38.39173  41.04482    H   1 1 -0.07117
+HETATM     5 H                  37.98198  40.31826  40.75018    H   1 1 -0.07139
+HETATM     6 H                  38.43688  39.27014  38.67318    H   1 1 -0.07139
+HETATM     7 H                  41.58067  40.69723  41.35470    H   1 1 -0.07210
+HETATM     8 H                  42.03776  39.64156  39.26588    H   1 1 -0.07210
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a4_10                                                       
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  125.10 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.04684  39.68676  40.38737    Si  1 1  0.21411
+HETATM     2 Si                 38.96078  40.32140  39.61018    Si  1 1  0.21361
+HETATM     3 H                  38.66724  41.58476  38.90795    H   1 1 -0.06959
+HETATM     4 H                  41.01164  38.36400  41.04814    H   1 1 -0.07050
+HETATM     5 H                  38.01814  40.30416  40.75159    H   1 1 -0.07118
+HETATM     6 H                  38.46810  39.26618  38.69614    H   1 1 -0.07118
+HETATM     7 H                  41.58296  40.65442  41.37648    H   1 1 -0.07263
+HETATM     8 H                  42.03989  39.59905  39.28814    H   1 1 -0.07264
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a4_11                                                       
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  141.10 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.02127  39.63809  40.40623    Si  1 1  0.21330
+HETATM     2 Si                 38.99331  40.38099  39.58732    Si  1 1  0.21180
+HETATM     3 H                  38.39946  41.51742  38.88304    H   1 1 -0.06743
+HETATM     4 H                  40.90810  38.31380  41.05080    H   1 1 -0.06895
+HETATM     5 H                  38.11408  40.28662  40.75765    H   1 1 -0.07101
+HETATM     6 H                  38.55528  39.26671  38.73989    H   1 1 -0.07101
+HETATM     7 H                  41.58033  40.56970  41.41770    H   1 1 -0.07335
+HETATM     8 H                  42.03673  39.51477  39.33053    H   1 1 -0.07335
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a8_1                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3   81.10 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.33322  40.00007  39.03569    Si  1 1  0.19895
+HETATM     2 Si                 38.98631  39.99998  39.32716    Si  1 1  0.16022
+HETATM     3 Si                 39.62910  39.99995  41.60305    Si  1 1  0.19895
+HETATM     4 H                  41.64281  40.00012  37.59130    H   1 1 -0.06944
+HETATM     5 H                  42.00664  38.81222  39.59066    H   1 1 -0.06999
+HETATM     6 H                  42.00655  41.18795  39.59071    H   1 1 -0.06999
+HETATM     7 H                  38.27578  38.78772  38.85557    H   1 1 -0.06964
+HETATM     8 H                  38.27569  41.21220  38.85562    H   1 1 -0.06964
+HETATM     9 H                  38.41826  39.99987  42.44920    H   1 1 -0.06944
+HETATM    10 H                  40.40197  41.18785  42.00808    H   1 1 -0.06999
+HETATM    11 H                  40.40207  38.81209  42.00801    H   1 1 -0.06999
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a8_2                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3   97.10 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.37370  40.00005  38.83380    Si  1 1  0.21168
+HETATM     2 Si                 39.13886  40.00006  39.42413    Si  1 1  0.15796
+HETATM     3 Si                 39.44697  39.99990  41.71501    Si  1 1  0.21168
+HETATM     4 H                  41.56046  40.00015  37.36839    H   1 1 -0.06887
+HETATM     5 H                  42.07736  38.80839  39.37168    H   1 1 -0.07307
+HETATM     6 H                  42.07740  41.19159  39.37183    H   1 1 -0.07307
+HETATM     7 H                  38.41060  38.80609  38.93712    H   1 1 -0.07566
+HETATM     8 H                  38.41067  41.19411  38.93728    H   1 1 -0.07565
+HETATM     9 H                  38.16397  39.99987  42.44733    H   1 1 -0.06887
+HETATM    10 H                  40.21296  41.19143  42.15992    H   1 1 -0.07307
+HETATM    11 H                  40.21292  38.80823  42.15974    H   1 1 -0.07307
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a8_3                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  105.10 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.39765  40.00006  38.72842    Si  1 1  0.21199
+HETATM     2 Si                 39.21075  40.00006  39.47228    Si  1 1  0.15564
+HETATM     3 Si                 39.35897  39.99988  41.77747    Si  1 1  0.21199
+HETATM     4 H                  41.48160  40.00009  37.25283    H   1 1 -0.06806
+HETATM     5 H                  42.13527  38.80764  39.21799    H   1 1 -0.07319
+HETATM     6 H                  42.13528  41.19246  39.21804    H   1 1 -0.07319
+HETATM     7 H                  38.47109  38.81577  38.97766    H   1 1 -0.07537
+HETATM     8 H                  38.47118  41.18450  38.97786    H   1 1 -0.07537
+HETATM     9 H                  38.02742  39.99976  42.41886    H   1 1 -0.06806
+HETATM    10 H                  40.09318  41.19229  42.27213    H   1 1 -0.07319
+HETATM    11 H                  40.09330  38.80747  42.27194    H   1 1 -0.07319
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a8_4                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  109.10 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.40663  40.00011  38.67860    Si  1 1  0.21289
+HETATM     2 Si                 39.24838  39.99996  39.49746    Si  1 1  0.15584
+HETATM     3 Si                 39.31638  39.99993  41.80481    Si  1 1  0.21289
+HETATM     4 H                  41.43820  40.00016  37.20142    H   1 1 -0.06812
+HETATM     5 H                  42.16033  38.80743  39.14285    H   1 1 -0.07355
+HETATM     6 H                  42.16019  41.19284  39.14294    H   1 1 -0.07355
+HETATM     7 H                  38.50378  38.82059  38.99954    H   1 1 -0.07560
+HETATM     8 H                  38.50361  41.17923  38.99957    H   1 1 -0.07560
+HETATM     9 H                  37.96336  39.99985  42.39843    H   1 1 -0.06812
+HETATM    10 H                  40.03334  41.19266  42.32388    H   1 1 -0.07355
+HETATM    11 H                  40.03347  38.80726  42.32384    H   1 1 -0.07355
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a8_5                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  111.10 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.41052  40.00014  38.65418    Si  1 1  0.21319
+HETATM     2 Si                 39.26746  39.99993  39.51025    Si  1 1  0.15564
+HETATM     3 Si                 39.29544  39.99993  41.81781    Si  1 1  0.21319
+HETATM     4 H                  41.41578  40.00016  37.17686    H   1 1 -0.06808
+HETATM     5 H                  42.17201  38.80735  39.10545    H   1 1 -0.07366
+HETATM     6 H                  42.17177  41.19309  39.10548    H   1 1 -0.07366
+HETATM     7 H                  38.52050  38.82298  39.01077    H   1 1 -0.07562
+HETATM     8 H                  38.52028  41.17676  39.01079    H   1 1 -0.07562
+HETATM     9 H                  37.93229  39.99985  42.38728    H   1 1 -0.06808
+HETATM    10 H                  40.00335  41.19286  42.34889    H   1 1 -0.07366
+HETATM    11 H                  40.00350  38.80712  42.34891    H   1 1 -0.07366
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a8_6                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  112.10 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.41239  40.00009  38.64218    Si  1 1  0.21331
+HETATM     2 Si                 39.27710  39.99998  39.51666    Si  1 1  0.15554
+HETATM     3 Si                 39.28497  39.99993  41.82407    Si  1 1  0.21331
+HETATM     4 H                  41.40468  40.00010  37.16496    H   1 1 -0.06803
+HETATM     5 H                  42.17751  38.80719  39.08702    H   1 1 -0.07370
+HETATM     6 H                  42.17740  41.19304  39.08704    H   1 1 -0.07370
+HETATM     7 H                  38.52891  38.82426  39.01639    H   1 1 -0.07565
+HETATM     8 H                  38.52882  41.17567  39.01645    H   1 1 -0.07565
+HETATM     9 H                  37.91695  39.99985  42.38146    H   1 1 -0.06803
+HETATM    10 H                  39.98838  41.19287  42.36111    H   1 1 -0.07370
+HETATM    11 H                  39.98849  38.80702  42.36105    H   1 1 -0.07370
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a8_7                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  113.10 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.41409  40.00014  38.63023    Si  1 1  0.21343
+HETATM     2 Si                 39.28677  39.99995  39.52315    Si  1 1  0.15543
+HETATM     3 Si                 39.27464  39.99991  41.83023    Si  1 1  0.21343
+HETATM     4 H                  41.39301  40.00014  37.15328    H   1 1 -0.06798
+HETATM     5 H                  42.18304  38.80719  39.06835    H   1 1 -0.07375
+HETATM     6 H                  42.18284  41.19321  39.06838    H   1 1 -0.07375
+HETATM     7 H                  38.53755  38.82536  39.02216    H   1 1 -0.07568
+HETATM     8 H                  38.53735  41.17443  39.02220    H   1 1 -0.07568
+HETATM     9 H                  37.90175  39.99986  42.37521    H   1 1 -0.06797
+HETATM    10 H                  39.97333  41.19292  42.37329    H   1 1 -0.07375
+HETATM    11 H                  39.97339  38.80691  42.37324    H   1 1 -0.07375
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a8_8                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  115.10 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.41725  40.00010  38.60667    Si  1 1  0.21368
+HETATM     2 Si                 39.30626  39.99999  39.53617    Si  1 1  0.15523
+HETATM     3 Si                 39.25404  39.99991  41.84215    Si  1 1  0.21368
+HETATM     4 H                  41.37010  40.00013  37.13049    H   1 1 -0.06787
+HETATM     5 H                  42.19330  38.80700  39.03174    H   1 1 -0.07383
+HETATM     6 H                  42.19319  41.19326  39.03178    H   1 1 -0.07383
+HETATM     7 H                  38.55488  38.82771  39.03371    H   1 1 -0.07575
+HETATM     8 H                  38.55478  41.17224  39.03378    H   1 1 -0.07575
+HETATM     9 H                  37.87191  39.99986  42.36272    H   1 1 -0.06787
+HETATM    10 H                  39.94338  41.19303  42.39684    H   1 1 -0.07383
+HETATM    11 H                  39.94343  38.80677  42.39675    H   1 1 -0.07383
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a8_9                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  119.10 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.42227  40.00009  38.56073    Si  1 1  0.21415
+HETATM     2 Si                 39.34582  39.99998  39.56265    Si  1 1  0.15486
+HETATM     3 Si                 39.21364  39.99993  41.86439    Si  1 1  0.21415
+HETATM     4 H                  41.32262  40.00010  37.08755    H   1 1 -0.06767
+HETATM     5 H                  42.21202  38.80670  38.95908    H   1 1 -0.07399
+HETATM     6 H                  42.21192  41.19354  38.95911    H   1 1 -0.07399
+HETATM     7 H                  38.59054  38.83200  39.05768    H   1 1 -0.07593
+HETATM     8 H                  38.59046  41.16794  39.05774    H   1 1 -0.07593
+HETATM     9 H                  37.81421  39.99987  42.33536    H   1 1 -0.06767
+HETATM    10 H                  39.88353  41.19335  42.44191    H   1 1 -0.07399
+HETATM    11 H                  39.88360  38.80651  42.44185    H   1 1 -0.07399
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a8_10                                                       
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  127.10 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.42748  40.00009  38.47395    Si  1 1  0.21510
+HETATM     2 Si                 39.42707  40.00002  39.61701    Si  1 1  0.15420
+HETATM     3 Si                 39.13561  39.99989  41.90246    Si  1 1  0.21510
+HETATM     4 H                  41.22314  40.00011  37.01216    H   1 1 -0.06726
+HETATM     5 H                  42.24163  38.80609  38.81733    H   1 1 -0.07427
+HETATM     6 H                  42.24157  41.19413  38.81736    H   1 1 -0.07427
+HETATM     7 H                  38.66608  38.83919  39.10822    H   1 1 -0.07640
+HETATM     8 H                  38.66609  41.16091  39.10836    H   1 1 -0.07640
+HETATM     9 H                  37.70674  39.99979  42.27246    H   1 1 -0.06726
+HETATM    10 H                  39.76409  41.19390  42.52353    H   1 1 -0.07427
+HETATM    11 H                  39.76421  38.80587  42.52340    H   1 1 -0.07427
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a8_11                                                       
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    1   2   3  143.10 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.41778  40.00006  38.32246    Si  1 1  0.21707
+HETATM     2 Si                 39.59729  40.00008  39.73086    Si  1 1  0.15320
+HETATM     3 Si                 38.99227  39.99986  41.95160    Si  1 1  0.21707
+HETATM     4 H                  41.00724  40.00007  36.90477    H   1 1 -0.06644
+HETATM     5 H                  42.26880  38.80471  38.55078    H   1 1 -0.07469
+HETATM     6 H                  42.26885  41.19536  38.55079    H   1 1 -0.07469
+HETATM     7 H                  38.83386  38.84642  39.22057    H   1 1 -0.07785
+HETATM     8 H                  38.83411  41.15404  39.22087    H   1 1 -0.07785
+HETATM     9 H                  37.52533  39.99976  42.11446    H   1 1 -0.06644
+HETATM    10 H                  39.52864  41.19515  42.65073    H   1 1 -0.07469
+HETATM    11 H                  39.52877  38.80450  42.65050    H   1 1 -0.07469
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a2_1                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    2   1   3   78.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 39.98052  39.99997  40.01374    Si  1 1  0.27349
+HETATM     2 H                  41.44489  40.00130  40.11953    H   1 1 -0.06439
+HETATM     3 H                  40.37279  40.00103  38.59895    H   1 1 -0.06439
+HETATM     4 H                  39.36347  38.75312  40.44892    H   1 1 -0.07236
+HETATM     5 H                  39.36111  41.24523  40.45013    H   1 1 -0.07236
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a2_2                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    2   1   3   94.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 39.99019  39.99998  40.00691    Si  1 1  0.27471
+HETATM     2 H                  41.43579  40.00143  40.31771    H   1 1 -0.06691
+HETATM     3 H                  40.18408  40.00138  38.54103    H   1 1 -0.06691
+HETATM     4 H                  39.32810  38.76744  40.47341    H   1 1 -0.07045
+HETATM     5 H                  39.32517  41.23022  40.47539    H   1 1 -0.07045
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a2_3                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    2   1   3  102.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 39.99539  40.00000  40.00326    Si  1 1  0.27500
+HETATM     2 H                  41.42016  39.99999  40.41208    H   1 1 -0.06797
+HETATM     3 H                  40.08484  40.00004  38.52372    H   1 1 -0.06797
+HETATM     4 H                  39.31171  38.77790  40.48668    H   1 1 -0.06953
+HETATM     5 H                  39.31173  41.22208  40.48672    H   1 1 -0.06953
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a2_4                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    2   1   3  106.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 39.99803  40.00000  40.00140    Si  1 1  0.27507
+HETATM     2 H                  41.40877  40.00021  40.45939    H   1 1 -0.06845
+HETATM     3 H                  40.03593  40.00020  38.51864    H   1 1 -0.06845
+HETATM     4 H                  39.30536  38.78358  40.49139    H   1 1 -0.06909
+HETATM     5 H                  39.30492  41.21603  40.49170    H   1 1 -0.06909
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a2_5                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    2   1   3  108.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 39.99935  40.00000  40.00046    Si  1 1  0.27508
+HETATM     2 H                  41.40191  40.00001  40.48352    H   1 1 -0.06867
+HETATM     3 H                  40.01222  40.00003  38.51710    H   1 1 -0.06867
+HETATM     4 H                  39.30195  38.78705  40.49331    H   1 1 -0.06887
+HETATM     5 H                  39.30189  41.21289  40.49339    H   1 1 -0.06887
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a2_6                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    2   1   3  109.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00002  40.00000  39.99999    Si  1 1  0.27509
+HETATM     2 H                  41.39838  40.00006  40.49527    H   1 1 -0.06878
+HETATM     3 H                  40.00012  40.00011  38.51652    H   1 1 -0.06878
+HETATM     4 H                  39.30053  38.78873  40.49422    H   1 1 -0.06877
+HETATM     5 H                  39.30044  41.21112  40.49435    H   1 1 -0.06877
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a2_7                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    2   1   3  110.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00069  40.00000  39.99952    Si  1 1  0.27508
+HETATM     2 H                  41.39458  39.99978  40.50710    H   1 1 -0.06888
+HETATM     3 H                  39.98816  39.99976  38.51613    H   1 1 -0.06888
+HETATM     4 H                  39.29885  38.79083  40.49530    H   1 1 -0.06866
+HETATM     5 H                  39.29931  41.20962  40.49494    H   1 1 -0.06866
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a2_8                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    2   1   3  112.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00203  40.00000  39.99858    Si  1 1  0.27506
+HETATM     2 H                  41.38375  39.99987  40.53787    H   1 1 -0.06908
+HETATM     3 H                  39.97206  39.99987  38.51567    H   1 1 -0.06908
+HETATM     4 H                  39.29371  38.79449  40.49304    H   1 1 -0.06845
+HETATM     5 H                  39.29402  41.20578  40.49282    H   1 1 -0.06845
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a2_9                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    2   1   3  116.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.00469  39.99999  39.99668    Si  1 1  0.27501
+HETATM     2 H                  41.36921  39.99900  40.57520    H   1 1 -0.06946
+HETATM     3 H                  39.91480  39.99893  38.51734    H   1 1 -0.06946
+HETATM     4 H                  39.29148  38.80346  40.50080    H   1 1 -0.06805
+HETATM     5 H                  39.29389  41.19879  40.49900    H   1 1 -0.06805
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a2_10                                                       
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    2   1   3  124.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.01003  39.99999  39.99290    Si  1 1  0.27474
+HETATM     2 H                  41.32768  39.99938  40.66139    H   1 1 -0.07011
+HETATM     3 H                  39.81688  39.99949  38.52807    H   1 1 -0.07011
+HETATM     4 H                  39.28742  38.82063  40.50458    H   1 1 -0.06726
+HETATM     5 H                  39.28881  41.18064  40.50371    H   1 1 -0.06726
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP a2_11                                                       
+REMARK                                                             
+RUTYPE NORMAL RUN
+#               At1 At2 At3 Angle   Force1  Force2  dAngle/dIteration (MD only)
+ANGLE RESTRAINT    2   1   3  140.50 7500.00  1.0000 0.000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 40.02062  39.99997  39.98555    Si  1 1  0.27367
+HETATM     2 H                  41.21677  39.99937  40.82843    H   1 1 -0.07094
+HETATM     3 H                  39.63658  39.99934  38.57356    H   1 1 -0.07094
+HETATM     4 H                  39.28514  38.85264  40.50097    H   1 1 -0.06590
+HETATM     5 H                  39.28740  41.14948  40.49936    H   1 1 -0.06590
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP 61_1                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  2.3700 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   4  2.3700 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   6  2.3700 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   3  2.3700 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   5  2.3700 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   7  2.3700 2500.00 5.00000 0.0000000
+BOND RESTRAINT    2   5  4.7400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    3   6  4.7400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    4   7  4.7400 2500.00 5.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 X                  39.99999  40.00000  39.94650    X   1 1  0.00000
+HETATM     2 Si                 42.36985  39.99493  39.98937    Si  1 1  0.14537
+HETATM     3 Si                 41.18909  42.04943  40.01032    Si  1 1  0.14535
+HETATM     4 Si                 38.81946  42.05490  39.99084    Si  1 1  0.14537
+HETATM     5 Si                 37.63059  40.00506  40.01008    Si  1 1  0.14535
+HETATM     6 Si                 38.81069  37.95017  39.99027    Si  1 1  0.14537
+HETATM     7 Si                 41.18031  37.94551  40.01072    Si  1 1  0.14535
+HETATM     8 H                  43.26096  39.99293  38.80828    H   1 1 -0.07298
+HETATM     9 H                  43.30451  39.99305  41.13830    H   1 1 -0.07237
+HETATM    10 H                  41.65718  42.85704  38.86136    H   1 1 -0.07241
+HETATM    11 H                  41.63725  42.82110  41.19136    H   1 1 -0.07296
+HETATM    12 H                  38.37454  42.82953  38.81141    H   1 1 -0.07295
+HETATM    13 H                  38.35496  42.86341  41.14152    H   1 1 -0.07241
+HETATM    14 H                  36.69796  40.00719  38.86043    H   1 1 -0.07242
+HETATM    15 H                  36.73730  40.00680  41.19047    H   1 1 -0.07294
+HETATM    16 H                  38.36305  37.17826  38.81008    H   1 1 -0.07296
+HETATM    17 H                  38.34213  37.14284  41.14016    H   1 1 -0.07239
+HETATM    18 H                  41.64552  37.13522  38.86246    H   1 1 -0.07239
+HETATM    19 H                  41.62459  37.17265  41.19242    H   1 1 -0.07298
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP 61_2                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  2.3600 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   4  2.3600 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   6  2.3600 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   3  2.3800 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   5  2.3800 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   7  2.3800 2500.00 5.00000 0.0000000
+BOND RESTRAINT    2   5  4.7400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    3   6  4.7400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    4   7  4.7400 2500.00 5.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 X                  40.00000  40.00000  39.94555    X   1 1  0.00000
+HETATM     2 Si                 42.35996  39.99495  39.98675    Si  1 1  0.14488
+HETATM     3 Si                 41.19404  42.05795  40.01305    Si  1 1  0.14585
+HETATM     4 Si                 38.82440  42.04632  39.98821    Si  1 1  0.14488
+HETATM     5 Si                 37.62073  40.00509  40.01282    Si  1 1  0.14585
+HETATM     6 Si                 38.81565  37.95874  39.98757    Si  1 1  0.14488
+HETATM     7 Si                 41.18521  37.93695  40.01339    Si  1 1  0.14585
+HETATM     8 H                  43.24636  39.99298  38.80241    H   1 1 -0.07316
+HETATM     9 H                  43.30079  39.99303  41.13068    H   1 1 -0.07244
+HETATM    10 H                  41.66405  42.86889  38.86697    H   1 1 -0.07222
+HETATM    11 H                  41.63935  42.82472  41.19828    H   1 1 -0.07290
+HETATM    12 H                  38.38189  42.81678  38.80544    H   1 1 -0.07313
+HETATM    13 H                  38.35675  42.86028  41.13380    H   1 1 -0.07248
+HETATM    14 H                  36.68423  40.00724  38.86610    H   1 1 -0.07224
+HETATM    15 H                  36.73321  40.00679  41.19746    H   1 1 -0.07288
+HETATM    16 H                  38.37044  37.19099  38.80405    H   1 1 -0.07314
+HETATM    17 H                  38.34394  37.14598  41.13238    H   1 1 -0.07246
+HETATM    18 H                  41.65229  37.12342  38.86794    H   1 1 -0.07221
+HETATM    19 H                  41.62665  37.16893  41.19923    H   1 1 -0.07292
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP 61_3                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  2.3400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   4  2.3400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   6  2.3400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   3  2.4000 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   5  2.4000 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   7  2.4000 2500.00 5.00000 0.0000000
+BOND RESTRAINT    2   5  4.7400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    3   6  4.7400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    4   7  4.7400 2500.00 5.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 X                  40.00000  40.00001  39.94362    X   1 1  0.00000
+HETATM     2 Si                 42.34016  39.99499  39.98089    Si  1 1  0.14392
+HETATM     3 Si                 41.20393  42.07498  40.01909    Si  1 1  0.14687
+HETATM     4 Si                 38.83426  42.02916  39.98219    Si  1 1  0.14391
+HETATM     5 Si                 37.60105  40.00513  40.01879    Si  1 1  0.14687
+HETATM     6 Si                 38.82558  37.97586  39.98167    Si  1 1  0.14392
+HETATM     7 Si                 41.19502  37.91989  40.01958    Si  1 1  0.14687
+HETATM     8 H                  43.21525  39.99301  38.78869    H   1 1 -0.07353
+HETATM     9 H                  43.29490  39.99309  41.11341    H   1 1 -0.07259
+HETATM    10 H                  41.67823  42.89318  38.87940    H   1 1 -0.07187
+HETATM    11 H                  41.64298  42.83099  41.21345    H   1 1 -0.07280
+HETATM    12 H                  38.39729  42.78994  38.79163    H   1 1 -0.07349
+HETATM    13 H                  38.35971  42.85507  41.11650    H   1 1 -0.07262
+HETATM    14 H                  36.65613  40.00727  38.87845    H   1 1 -0.07189
+HETATM    15 H                  36.72592  40.00682  41.21254    H   1 1 -0.07278
+HETATM    16 H                  38.38600  37.21778  38.79037    H   1 1 -0.07351
+HETATM    17 H                  38.34688  37.15121  41.11517    H   1 1 -0.07261
+HETATM    18 H                  41.66633  37.09899  38.88059    H   1 1 -0.07185
+HETATM    19 H                  41.63024  37.16270  41.21458    H   1 1 -0.07282
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP 61_4                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  2.3000 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   4  2.3000 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   6  2.3000 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   3  2.4400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   5  2.4400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   7  2.4400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    2   5  4.7400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    3   6  4.7400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    4   7  4.7400 2500.00 5.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 X                  39.99999  40.00000  39.93597    X   1 1  0.00000
+HETATM     2 Si                 42.30062  39.99499  39.96495    Si  1 1  0.14212
+HETATM     3 Si                 41.22359  42.10870  40.03582    Si  1 1  0.14900
+HETATM     4 Si                 38.85403  41.99491  39.96595    Si  1 1  0.14212
+HETATM     5 Si                 37.56200  40.00529  40.03525    Si  1 1  0.14900
+HETATM     6 Si                 38.84538  38.01009  39.96562    Si  1 1  0.14212
+HETATM     7 Si                 41.21440  37.88602  40.03645    Si  1 1  0.14900
+HETATM     8 H                  43.14044  39.99300  38.74888    H   1 1 -0.07441
+HETATM     9 H                  43.29309  39.99302  41.06520    H   1 1 -0.07284
+HETATM    10 H                  41.70938  42.94651  38.91395    H   1 1 -0.07109
+HETATM    11 H                  41.64642  42.83691  41.25273    H   1 1 -0.07279
+HETATM    12 H                  38.43466  42.72534  38.75154    H   1 1 -0.07436
+HETATM    13 H                  38.36067  42.85352  41.06815    H   1 1 -0.07289
+HETATM    14 H                  36.59454  40.00746  38.91256    H   1 1 -0.07111
+HETATM    15 H                  36.71884  40.00700  41.25143    H   1 1 -0.07277
+HETATM    16 H                  38.42350  37.28226  38.75053    H   1 1 -0.07438
+HETATM    17 H                  38.34770  37.15294  41.06703    H   1 1 -0.07287
+HETATM    18 H                  41.69704  37.04539  38.91532    H   1 1 -0.07107
+HETATM    19 H                  41.63350  37.15672  41.25401    H   1 1 -0.07281
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP 61_5                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  2.2200 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   4  2.2200 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   6  2.2200 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   3  2.5200 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   5  2.5200 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   7  2.5200 2500.00 5.00000 0.0000000
+BOND RESTRAINT    2   5  4.7400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    3   6  4.7400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    4   7  4.7400 2500.00 5.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 X                  40.00000  39.99999  39.91575    X   1 1  0.00000
+HETATM     2 Si                 42.22151  39.99540  39.93228    Si  1 1  0.13899
+HETATM     3 Si                 41.26208  42.17557  40.07130    Si  1 1  0.15348
+HETATM     4 Si                 38.89323  41.92621  39.93241    Si  1 1  0.13899
+HETATM     5 Si                 37.48480  40.00519  40.07040    Si  1 1  0.15348
+HETATM     6 Si                 38.88530  38.07836  39.93258    Si  1 1  0.13899
+HETATM     7 Si                 41.25307  37.81926  40.07211    Si  1 1  0.15348
+HETATM     8 H                  42.97260  39.99362  38.66165    H   1 1 -0.07622
+HETATM     9 H                  43.29589  39.99340  40.95442    H   1 1 -0.07353
+HETATM    10 H                  41.76697  43.04606  38.98011    H   1 1 -0.06963
+HETATM    11 H                  41.65425  42.85161  41.32731    H   1 1 -0.07310
+HETATM    12 H                  38.51818  42.57955  38.66307    H   1 1 -0.07617
+HETATM    13 H                  38.35872  42.85609  40.95641    H   1 1 -0.07357
+HETATM    14 H                  36.47941  40.00719  38.97834    H   1 1 -0.06964
+HETATM    15 H                  36.70213  40.00684  41.32573    H   1 1 -0.07307
+HETATM    16 H                  38.50808  37.42699  38.66289    H   1 1 -0.07619
+HETATM    17 H                  38.34652  37.15036  40.95607    H   1 1 -0.07356
+HETATM    18 H                  41.75469  36.94607  38.98152    H   1 1 -0.06962
+HETATM    19 H                  41.64210  37.14232  41.32861    H   1 1 -0.07311
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP 61_6                                                        
+REMARK                                                             
+RUTYPE NORMAL RUN
+#              At1 At2   R12    Force1  Force2  dR12/dIteration(MD only)
+BOND RESTRAINT    1   2  2.0600 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   4  2.0600 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   6  2.0600 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   3  2.6800 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   5  2.6800 2500.00 5.00000 0.0000000
+BOND RESTRAINT    1   7  2.6800 2500.00 5.00000 0.0000000
+BOND RESTRAINT    2   5  4.7400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    3   6  4.7400 2500.00 5.00000 0.0000000
+BOND RESTRAINT    4   7  4.7400 2500.00 5.00000 0.0000000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 X                  39.99991  39.99998  39.85435    X   1 1  0.00000
+HETATM     2 Si                 42.06277  39.99553  39.80346    Si  1 1  0.13714
+HETATM     3 Si                 41.33332  42.29771  40.21245    Si  1 1  0.16254
+HETATM     4 Si                 38.97235  41.78874  39.80461    Si  1 1  0.13714
+HETATM     5 Si                 37.34352  40.00574  40.21384    Si  1 1  0.16254
+HETATM     6 Si                 38.96468  38.21563  39.80519    Si  1 1  0.13714
+HETATM     7 Si                 41.32342  37.69666  40.21328    Si  1 1  0.16254
+HETATM     8 H                  42.30577  39.99476  38.34970    H   1 1 -0.08081
+HETATM     9 H                  43.43376  39.99270  40.38014    H   1 1 -0.07429
+HETATM    10 H                  41.90207  43.27847  39.24788    H   1 1 -0.06619
+HETATM    11 H                  41.62299  42.79603  41.57433    H   1 1 -0.07842
+HETATM    12 H                  38.84949  42.00185  38.35133    H   1 1 -0.08073
+HETATM    13 H                  38.29021  42.97660  40.38408    H   1 1 -0.07432
+HETATM    14 H                  36.20956  40.00799  39.24951    H   1 1 -0.06621
+HETATM    15 H                  36.76740  40.00718  41.57584    H   1 1 -0.07839
+HETATM    16 H                  38.84103  38.00270  38.35196    H   1 1 -0.08074
+HETATM    17 H                  38.27739  37.03084  40.38488    H   1 1 -0.07432
+HETATM    18 H                  41.88796  36.71306  39.24911    H   1 1 -0.06619
+HETATM    19 H                  41.61090  37.19761  41.57536    H   1 1 -0.07842
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP conf1                                                       
+REMARK                                                             
+RUTYPE NORMAL RUN
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.65807  40.92115  41.16934    Si  1 1  0.14626
+HETATM     2 Si                 41.85120  40.56449  38.89553    Si  1 1  0.14626
+HETATM     3 Si                 40.54929  38.78151  38.21667    Si  1 1  0.14627
+HETATM     4 Si                 38.34240  39.07585  38.83145    Si  1 1  0.14627
+HETATM     5 Si                 38.14775  39.43751  41.10441    Si  1 1  0.14627
+HETATM     6 Si                 39.45135  41.21952  41.78263    Si  1 1  0.14626
+HETATM     7 H                  42.44872  42.10843  41.55718    H   1 1 -0.06644
+HETATM     8 H                  42.24827  39.78524  41.91760    H   1 1 -0.07987
+HETATM     9 H                  41.47039  41.78901  38.15123    H   1 1 -0.07985
+HETATM    10 H                  43.26548  40.31024  38.54866    H   1 1 -0.06644
+HETATM    11 H                  41.07506  37.51775  38.78666    H   1 1 -0.07980
+HETATM    12 H                  40.64184  38.62642  36.74952    H   1 1 -0.06645
+HETATM    13 H                  37.74890  40.20825  38.08061    H   1 1 -0.07977
+HETATM    14 H                  37.55469  37.88562  38.44674    H   1 1 -0.06645
+HETATM    15 H                  36.73346  39.69461  41.44905    H   1 1 -0.06645
+HETATM    16 H                  38.52555  38.21372  41.85138    H   1 1 -0.07979
+HETATM    17 H                  39.35800  41.37607  43.24959    H   1 1 -0.06644
+HETATM    18 H                  38.92776  42.48349  41.21105    H   1 1 -0.07983
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP conf2                                                       
+REMARK                                                             
+RUTYPE NORMAL RUN
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 38.11125  39.39083  40.86694    Si  1 1  0.14467
+HETATM     2 Si                 38.23761  41.46939  39.86786    Si  1 1  0.14721
+HETATM     3 Si                 40.35570  41.90484  39.05616    Si  1 1  0.14456
+HETATM     4 Si                 41.40375  39.97212  38.35118    Si  1 1  0.14467
+HETATM     5 Si                 41.74559  38.50853  40.10491    Si  1 1  0.14721
+HETATM     6 Si                 40.14612  38.75430  41.75295    Si  1 1  0.14456
+HETATM     7 H                  37.08396  39.40893  41.93124    H   1 1 -0.06638
+HETATM     8 H                  37.64917  38.38400  39.88290    H   1 1 -0.08102
+HETATM     9 H                  37.24346  41.55073  38.77431    H   1 1 -0.07092
+HETATM    10 H                  37.85419  42.52468  40.83216    H   1 1 -0.07042
+HETATM    11 H                  41.17011  42.57221  40.09879    H   1 1 -0.08141
+HETATM    12 H                  40.27362  42.86836  37.93668    H   1 1 -0.06629
+HETATM    13 H                  40.59954  39.31559  37.29396    H   1 1 -0.08103
+HETATM    14 H                  42.69854  40.30550  37.71813    H   1 1 -0.06638
+HETATM    15 H                  41.74476  37.11951  39.59357    H   1 1 -0.07092
+HETATM    16 H                  43.08947  38.71550  40.68949    H   1 1 -0.07042
+HETATM    17 H                  39.99484  37.48409  42.49593    H   1 1 -0.06629
+HETATM    18 H                  40.59808  39.75045  42.75253    H   1 1 -0.08141
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP conf3                                                       
+REMARK                                                             
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 41.60419  41.27022  41.05372    Si  1 1  0.14348
+HETATM     2 Si                 42.06322  40.29054  39.02228    Si  1 1  0.14348
+HETATM     3 Si                 40.45938  39.01947  37.96904    Si  1 1  0.14348
+HETATM     4 Si                 38.39583  38.72973  38.94631    Si  1 1  0.14348
+HETATM     5 Si                 37.93678  39.70946  40.97772    Si  1 1  0.14348
+HETATM     6 Si                 39.54060  40.98057  42.03093    Si  1 1  0.14348
+HETATM     7 H                  41.83580  42.72285  40.91477    H   1 1 -0.07173
+HETATM     8 H                  42.62606  40.80937  42.01622    H   1 1 -0.07175
+HETATM     9 H                  42.47291  41.36062  38.08947    H   1 1 -0.07175
+HETATM    10 H                  43.26517  39.44799  39.19096    H   1 1 -0.07173
+HETATM    11 H                  41.03442  37.68010  37.72737    H   1 1 -0.07175
+HETATM    12 H                  40.24345  39.59235  36.62435    H   1 1 -0.07173
+HETATM    13 H                  37.37387  39.19049  37.98382    H   1 1 -0.07175
+HETATM    14 H                  38.16431  37.27709  39.08532    H   1 1 -0.07173
+HETATM    15 H                  36.73482  40.55200  40.80901    H   1 1 -0.07173
+HETATM    16 H                  37.52710  38.63940  41.91054    H   1 1 -0.07175
+HETATM    17 H                  39.75646  40.40779  43.37568    H   1 1 -0.07173
+HETATM    18 H                  38.96556  42.31996  42.27248    H   1 1 -0.07175
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP si_av                                                       
+REMARK                                                             
+CRYSTX    10.52409   10.52409   10.52409   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  0.66678   0.66787   0.66953    Si  1 1  0.00000
+HETATM     2 Si                  0.68648   3.34126   3.31242    Si  1 1  0.00000
+HETATM     3 Si                  3.32168   3.35370   0.66513    Si  1 1  0.00000
+HETATM     4 Si                  3.29424   0.65040   3.30090    Si  1 1  0.00000
+HETATM     5 Si                  4.59677   1.99236   4.62803    Si  1 1  0.00000
+HETATM     6 Si                  1.99370   2.00666   1.97451    Si  1 1  0.00000
+HETATM     7 Si                  2.04500   4.66601   4.62146    Si  1 1  0.00000
+HETATM     8 Si                  4.63385   4.64976   2.03556    Si  1 1  0.00000
+HETATM     9 Si                  0.67782   0.66835   5.94703    Si  1 1  0.00000
+HETATM    10 Si                  0.67249   3.35300   8.54027    Si  1 1  0.00000
+HETATM    11 Si                  3.45148   3.47186   5.95763    Si  1 1  0.00000
+HETATM    12 Si                  3.29088   0.71874   8.57039    Si  1 1  0.00000
+HETATM    13 Si                  4.65146   2.08043   9.81816    Si  1 1  0.00000
+HETATM    14 Si                  2.04248   2.07966   7.20934    Si  1 1  0.00000
+HETATM    15 Si                  2.07503   4.67187   9.78642    Si  1 1  0.00000
+HETATM    16 Si                  5.12521   4.96057   6.72994    Si  1 1  0.00000
+HETATM    17 Si                  0.68066   5.92980   0.65555    Si  1 1  0.00000
+HETATM    18 Si                  0.65227   8.50845   3.32556    Si  1 1  0.00000
+HETATM    19 Si                  3.30808   8.51693   0.66787    Si  1 1  0.00000
+HETATM    20 Si                  3.49670   6.01988   3.47748    Si  1 1  0.00000
+HETATM    21 Si                  4.92150   7.04599   5.08774    Si  1 1  0.00000
+HETATM    22 Si                  2.05056   7.19494   2.06042    Si  1 1  0.00000
+HETATM    23 Si                  2.00312   9.82554   4.63512    Si  1 1  0.00000
+HETATM    24 Si                  4.63923   9.80510   2.03354    Si  1 1  0.00000
+HETATM    25 Si                  0.67031   5.92938   5.93148    Si  1 1  0.00000
+HETATM    26 Si                  0.66721   8.51711   8.55332    Si  1 1  0.00000
+HETATM    27 Si                  3.36007   8.50727   5.95960    Si  1 1  0.00000
+HETATM    28 Si                  3.52527   5.81864   8.33621    Si  1 1  0.00000
+HETATM    29 Si                  4.60826   7.19580   9.82922    Si  1 1  0.00000
+HETATM    30 Si                  2.03048   7.19577   7.25423    Si  1 1  0.00000
+HETATM    31 Si                  1.98539   9.86350   9.87512    Si  1 1  0.00000
+HETATM    32 Si                  4.59673   9.90199   7.26509    Si  1 1  0.00000
+HETATM    33 Si                  5.91360   0.66834   0.65848    Si  1 1  0.00000
+HETATM    34 Si                  5.93168   3.32889   3.36050    Si  1 1  0.00000
+HETATM    35 Si                  8.54693   3.34147   0.64934    Si  1 1  0.00000
+HETATM    36 Si                  8.55742   0.65550   3.30222    Si  1 1  0.00000
+HETATM    37 Si                  9.86617   2.00905   4.62159    Si  1 1  0.00000
+HETATM    38 Si                  7.23811   2.01008   1.99480    Si  1 1  0.00000
+HETATM    39 Si                  6.93006   4.68911   4.93516    Si  1 1  0.00000
+HETATM    40 Si                  9.81972   4.66032   2.04013    Si  1 1  0.00000
+HETATM    41 Si                  5.92682   0.66890   5.93385    Si  1 1  0.00000
+HETATM    42 Si                  5.89963   3.47420   8.40707    Si  1 1  0.00000
+HETATM    43 Si                  8.50330   3.32687   5.93144    Si  1 1  0.00000
+HETATM    44 Si                  8.55859   0.65012   8.56676    Si  1 1  0.00000
+HETATM    45 Si                  9.88537   2.00639   9.86710    Si  1 1  0.00000
+HETATM    46 Si                  7.23152   1.99296   7.26472    Si  1 1  0.00000
+HETATM    47 Si                  7.23730   4.66568   9.81475    Si  1 1  0.00000
+HETATM    48 Si                  9.82684   4.64948   7.22837    Si  1 1  0.00000
+HETATM    49 Si                  5.92939   5.92934   0.66669    Si  1 1  0.00000
+HETATM    50 Si                  5.88352   8.41816   3.44258    Si  1 1  0.00000
+HETATM    51 Si                  8.53330   8.50754   0.68512    Si  1 1  0.00000
+HETATM    52 Si                  8.39559   5.84792   3.46617    Si  1 1  0.00000
+HETATM    53 Si                  9.81254   7.20119   4.64228    Si  1 1  0.00000
+HETATM    54 Si                  7.21719   7.20042   2.05031    Si  1 1  0.00000
+HETATM    55 Si                  7.23277   9.84030   4.62563    Si  1 1  0.00000
+HETATM    56 Si                  9.87697   9.84377   1.98276    Si  1 1  0.00000
+HETATM    57 Si                  5.90374   8.50446   8.49739    Si  1 1  0.00000
+HETATM    58 Si                  8.41954   8.42076   5.97293    Si  1 1  0.00000
+HETATM    59 Si                  8.38261   6.01856   8.36413    Si  1 1  0.00000
+HETATM    60 Si                  9.79880   7.19461   9.81050    Si  1 1  0.00000
+HETATM    61 Si                  6.77753   7.04606   6.93363    Si  1 1  0.00000
+HETATM    62 Si                  7.22455   9.82416   9.85697    Si  1 1  0.00000
+HETATM    63 Si                  9.82658   9.80562   7.22121    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP amorph_Si                                                   
+REMARK BGF file created by Cerius2                                 
+CRYSTX     5.26611    5.26611    5.26611   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.97447   5.27419   3.77105    Si  1 1  0.00000
+HETATM     2 Si                  4.60585   2.64251   1.13945    Si  1 1  0.00000
+HETATM     3 Si                  3.89656   4.37940   2.64531    Si  1 1  0.00000
+HETATM     4 Si                  1.98198  -0.01237   1.49350    Si  1 1  0.00000
+HETATM     5 Si                  2.68673   1.74458   0.00113    Si  1 1  0.00000
+HETATM     6 Si                 -0.66406   2.62258   4.12822    Si  1 1  0.00000
+HETATM     7 Si                  6.51957   3.52221   5.25453    Si  1 1  0.00000
+HETATM     8 Si                  0.06334   0.89133   2.63124    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP a_Si_opt                                                    
+REMARK BGF file created by Cerius2                                 
+CRYSTX     5.32330    5.32330    5.32330   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.99621   4.65797   4.65797    Si  1 1  0.00000
+HETATM     2 Si                  3.32713   3.32713   0.66529    Si  1 1  0.00000
+HETATM     3 Si                  4.65797   4.65797   1.99621    Si  1 1  0.00000
+HETATM     4 Si                  3.32713   0.66529   3.32713    Si  1 1  0.00000
+HETATM     5 Si                  1.99621   1.99621   1.99621    Si  1 1  0.00000
+HETATM     6 Si                  0.66529   3.32713   3.32713    Si  1 1  0.00000
+HETATM     7 Si                  4.65797   1.99621   4.65797    Si  1 1  0.00000
+HETATM     8 Si                  0.66529   0.66529   0.66529    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP a_Si_120                                                    
+REMARK BGF file created by Cerius2                                 
+RUTYPE NO CELL OPT
+CRYSTX     5.70000    5.70000    5.70000   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  2.13750   4.98750   4.98750    Si  1 1  0.00000
+HETATM     2 Si                  3.56250   3.56250   0.71250    Si  1 1  0.00000
+HETATM     3 Si                  4.98750   4.98750   2.13750    Si  1 1  0.00000
+HETATM     4 Si                  3.56250   0.71250   3.56250    Si  1 1  0.00000
+HETATM     5 Si                  2.13750   2.13750   2.13750    Si  1 1  0.00000
+HETATM     6 Si                  0.71250   3.56250   3.56250    Si  1 1  0.00000
+HETATM     7 Si                  4.98750   2.13750   4.98750    Si  1 1  0.00000
+HETATM     8 Si                  0.71250   0.71250   0.71250    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP a_Si_110                                                    
+REMARK BGF file created by Cerius2                                 
+RUTYPE NO CELL OPT
+CRYSTX     5.54000    5.54000    5.54000   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  2.07750   4.84750   4.84750    Si  1 1  0.00000
+HETATM     2 Si                  3.46250   3.46250   0.69250    Si  1 1  0.00000
+HETATM     3 Si                  4.84750   4.84750   2.07750    Si  1 1  0.00000
+HETATM     4 Si                  3.46250   0.69250   3.46250    Si  1 1  0.00000
+HETATM     5 Si                  2.07750   2.07750   2.07750    Si  1 1  0.00000
+HETATM     6 Si                  0.69250   3.46250   3.46250    Si  1 1  0.00000
+HETATM     7 Si                  4.84750   2.07750   4.84750    Si  1 1  0.00000
+HETATM     8 Si                  0.69250   0.69250   0.69250    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP a_Si_100                                                    
+REMARK BGF file created by Cerius2                                 
+RUTYPE NO CELL OPT
+CRYSTX     5.37000    5.37000    5.37000   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  2.01375   4.69875   4.69875    Si  1 1  0.00000
+HETATM     2 Si                  3.35625   3.35625   0.67125    Si  1 1  0.00000
+HETATM     3 Si                  4.69875   4.69875   2.01375    Si  1 1  0.00000
+HETATM     4 Si                  3.35625   0.67125   3.35625    Si  1 1  0.00000
+HETATM     5 Si                  2.01375   2.01375   2.01375    Si  1 1  0.00000
+HETATM     6 Si                  0.67125   3.35625   3.35625    Si  1 1  0.00000
+HETATM     7 Si                  4.69875   2.01375   4.69875    Si  1 1  0.00000
+HETATM     8 Si                  0.67125   0.67125   0.67125    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP a_Si_90                                                     
+REMARK BGF file created by Cerius2                                 
+RUTYPE NO CELL OPT
+CRYSTX     5.18000    5.18000    5.18000   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.94250   4.53250   4.53250    Si  1 1  0.00000
+HETATM     2 Si                  3.23750   3.23750   0.64750    Si  1 1  0.00000
+HETATM     3 Si                  4.53250   4.53250   1.94250    Si  1 1  0.00000
+HETATM     4 Si                  3.23750   0.64750   3.23750    Si  1 1  0.00000
+HETATM     5 Si                  1.94250   1.94250   1.94250    Si  1 1  0.00000
+HETATM     6 Si                  0.64750   3.23750   3.23750    Si  1 1  0.00000
+HETATM     7 Si                  4.53250   1.94250   4.53250    Si  1 1  0.00000
+HETATM     8 Si                  0.64750   0.64750   0.64750    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP a_Si_80                                                     
+REMARK BGF file created by Cerius2                                 
+RUTYPE NO CELL OPT
+CRYSTX     4.98000    4.98000    4.98000   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.86750   4.35750   4.35750    Si  1 1  0.00000
+HETATM     2 Si                  3.11250   3.11250   0.62250    Si  1 1  0.00000
+HETATM     3 Si                  4.35750   4.35750   1.86750    Si  1 1  0.00000
+HETATM     4 Si                  3.11250   0.62250   3.11250    Si  1 1  0.00000
+HETATM     5 Si                  1.86750   1.86750   1.86750    Si  1 1  0.00000
+HETATM     6 Si                  0.62250   3.11250   3.11250    Si  1 1  0.00000
+HETATM     7 Si                  4.35750   1.86750   4.35750    Si  1 1  0.00000
+HETATM     8 Si                  0.62250   0.62250   0.62250    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP a_Si_70                                                     
+REMARK BGF file created by Cerius2                                 
+RUTYPE NO CELL OPT
+CRYSTX     4.76000    4.76000    4.76000   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.78500   4.16500   4.16500    Si  1 1  0.00000
+HETATM     2 Si                  2.97500   2.97500   0.59500    Si  1 1  0.00000
+HETATM     3 Si                  4.16500   4.16500   1.78500    Si  1 1  0.00000
+HETATM     4 Si                  2.97500   0.59500   2.97500    Si  1 1  0.00000
+HETATM     5 Si                  1.78500   1.78500   1.78500    Si  1 1  0.00000
+HETATM     6 Si                  0.59500   2.97500   2.97500    Si  1 1  0.00000
+HETATM     7 Si                  4.16500   1.78500   4.16500    Si  1 1  0.00000
+HETATM     8 Si                  0.59500   0.59500   0.59500    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP a_Si_60                                                     
+REMARK BGF file created by Cerius2                                 
+RUTYPE NO CELL OPT
+CRYSTX     4.53000    4.53000    4.53000   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.69875   3.96375   3.96375    Si  1 1  0.00000
+HETATM     2 Si                  2.83125   2.83125   0.56625    Si  1 1  0.00000
+HETATM     3 Si                  3.96375   3.96375   1.69875    Si  1 1  0.00000
+HETATM     4 Si                  2.83125   0.56625   2.83125    Si  1 1  0.00000
+HETATM     5 Si                  1.69875   1.69875   1.69875    Si  1 1  0.00000
+HETATM     6 Si                  0.56625   2.83125   2.83125    Si  1 1  0.00000
+HETATM     7 Si                  3.96375   1.69875   3.96375    Si  1 1  0.00000
+HETATM     8 Si                  0.56625   0.56625   0.56625    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP a_Si_50                                                     
+REMARK BGF file created by Cerius2                                 
+RUTYPE NO CELL OPT
+CRYSTX     4.26000    4.26000    4.26000   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.59750   3.72750   3.72750    Si  1 1  0.00000
+HETATM     2 Si                  2.66250   2.66250   0.53250    Si  1 1  0.00000
+HETATM     3 Si                  3.72750   3.72750   1.59750    Si  1 1  0.00000
+HETATM     4 Si                  2.66250   0.53250   2.66250    Si  1 1  0.00000
+HETATM     5 Si                  1.59750   1.59750   1.59750    Si  1 1  0.00000
+HETATM     6 Si                  0.53250   2.66250   2.66250    Si  1 1  0.00000
+HETATM     7 Si                  3.72750   1.59750   3.72750    Si  1 1  0.00000
+HETATM     8 Si                  0.53250   0.53250   0.53250    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP b_Si_opt                                                    
+REMARK BGF file created by Cerius2                                 
+CRYSTX     4.89307    4.89307    2.36795   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.22326   1.22327   0.88800    Si  1 1  0.00000
+HETATM     2 Si                  1.22327   3.66980   1.48005    Si  1 1  0.00000
+HETATM     3 Si                  3.66980   3.66981   2.07186    Si  1 1  0.00000
+HETATM     4 Si                  3.66981   1.22326   0.29600    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP b_Si_120                                                    
+REMARK BGF file created by Cerius2                                 
+RUTYPE NO CELL OPT
+CRYSTX     5.29000    5.29000    2.56000   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.32250   1.32250   0.96000    Si  1 1  0.00000
+HETATM     2 Si                  1.32250   3.96750   1.60000    Si  1 1  0.00000
+HETATM     3 Si                  3.96750   3.96750   2.24000    Si  1 1  0.00000
+HETATM     4 Si                  3.96750   1.32250   0.32000    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP b_Si_110                                                    
+REMARK BGF file created by Cerius2                                 
+RUTYPE NO CELL OPT
+CRYSTX     5.14000    5.14000    2.48000   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.28500   1.28500   0.93000    Si  1 1  0.00000
+HETATM     2 Si                  1.28500   3.85500   1.55000    Si  1 1  0.00000
+HETATM     3 Si                  3.85500   3.85500   2.17000    Si  1 1  0.00000
+HETATM     4 Si                  3.85500   1.28500   0.31000    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP b_Si_100                                                    
+REMARK BGF file created by Cerius2                                 
+RUTYPE NO CELL OPT
+CRYSTX     4.98000    4.98000    2.41000   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.24500   1.24500   0.90375    Si  1 1  0.00000
+HETATM     2 Si                  1.24500   3.73500   1.50625    Si  1 1  0.00000
+HETATM     3 Si                  3.73500   3.73500   2.10875    Si  1 1  0.00000
+HETATM     4 Si                  3.73500   1.24500   0.30125    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP b_Si_90                                                     
+REMARK BGF file created by Cerius2                                 
+RUTYPE NO CELL OPT
+CRYSTX     4.81000    4.81000    2.33000   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.20250   1.20250   0.87375    Si  1 1  0.00000
+HETATM     2 Si                  1.20250   3.60750   1.45625    Si  1 1  0.00000
+HETATM     3 Si                  3.60750   3.60750   2.03875    Si  1 1  0.00000
+HETATM     4 Si                  3.60750   1.20250   0.29125    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP b_Si_80                                                     
+REMARK BGF file created by Cerius2                                 
+RUTYPE NO CELL OPT
+CRYSTX     4.62000    4.62000    2.23000   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.15500   1.15500   0.83625    Si  1 1  0.00000
+HETATM     2 Si                  1.15500   3.46500   1.39375    Si  1 1  0.00000
+HETATM     3 Si                  3.46500   3.46500   1.95125    Si  1 1  0.00000
+HETATM     4 Si                  3.46500   1.15500   0.27875    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP b_Si_70                                                     
+REMARK BGF file created by Cerius2                                 
+RUTYPE NO CELL OPT
+CRYSTX     4.42000    4.42000    2.14000   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.10500   1.10500   0.80250    Si  1 1  0.00000
+HETATM     2 Si                  1.10500   3.31500   1.33750    Si  1 1  0.00000
+HETATM     3 Si                  3.31500   3.31500   1.87250    Si  1 1  0.00000
+HETATM     4 Si                  3.31500   1.10500   0.26750    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP b_Si_60                                                     
+REMARK BGF file created by Cerius2                                 
+RUTYPE NO CELL OPT
+CRYSTX     4.20000    4.20000    2.03000   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.05000   1.05000   0.76125    Si  1 1  0.00000
+HETATM     2 Si                  1.05000   3.15000   1.26875    Si  1 1  0.00000
+HETATM     3 Si                  3.15000   3.15000   1.77625    Si  1 1  0.00000
+HETATM     4 Si                  3.15000   1.05000   0.25375    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP si_sc                                                       
+REMARK                                                             
+RUTYPE MAXIT     0
+CRYSTX     2.47750    2.47750    2.47750   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.23875   1.23875   1.23875    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP si_sc146                                                    
+REMARK                                                             
+RUTYPE MAXIT     0
+RUTYPE NO CELL OPT
+CRYSTX     2.78787    2.78787    2.78787   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.39393   1.39393   1.39393    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP si_sc133                                                    
+REMARK                                                             
+RUTYPE MAXIT     0
+RUTYPE NO CELL OPT
+CRYSTX     2.70069    2.70069    2.70069   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.35034   1.35034   1.35035    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP si_sc121                                                    
+REMARK                                                             
+RUTYPE MAXIT     0
+RUTYPE NO CELL OPT
+CRYSTX     2.61624    2.61624    2.61624   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.30812   1.30812   1.30812    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP si_sc110                                                    
+REMARK                                                             
+RUTYPE MAXIT     0
+RUTYPE NO CELL OPT
+CRYSTX     2.53443    2.53443    2.53443   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.26721   1.26721   1.26722    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP si_sc100                                                    
+REMARK                                                             
+RUTYPE MAXIT     0
+RUTYPE NO CELL OPT
+CRYSTX     2.45518    2.45518    2.45518   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.22759   1.22759   1.22759    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP si_sc90                                                     
+REMARK                                                             
+RUTYPE MAXIT     0
+RUTYPE NO CELL OPT
+CRYSTX     2.37045    2.37045    2.37045   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.18522   1.18522   1.18522    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP si_sc81                                                     
+REMARK                                                             
+RUTYPE MAXIT     0
+RUTYPE NO CELL OPT
+CRYSTX     2.28864    2.28864    2.28864   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.14432   1.14432   1.14432    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP si_sc73                                                     
+REMARK                                                             
+RUTYPE MAXIT     0
+RUTYPE NO CELL OPT
+CRYSTX     2.20966    2.20966    2.20966   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.10483   1.10483   1.10483    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+XTLGRF 200
+DESCRP si_sc66                                                     
+REMARK                                                             
+RUTYPE MAXIT     0
+RUTYPE NO CELL OPT
+CRYSTX     2.13341    2.13341    2.13341   90.00000   90.00000   90.00000
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                  1.06671   1.06671   1.06671    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP pyramid                                                     
+REMARK                                                             
+RUTYPE MAXMOV     0
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 38.96516  38.96199  38.86117    Si  1 1  0.00000
+HETATM     2 Si                 37.24670  40.00168  39.99459    Si  1 1  0.00000
+HETATM     3 Si                 38.96221  41.13619  41.03796    Si  1 1  0.00000
+HETATM     4 Si                 40.06132  42.86551  39.93315    Si  1 1  0.00000
+HETATM     5 Si                 40.66455  40.66898  39.33271    Si  1 1  0.00000
+HETATM     6 Si                 40.06511  40.07034  37.13465    Si  1 1  0.00000
+HETATM     7 Si                 40.01526  37.24676  39.98989    Si  1 1  0.00000
+HETATM     8 Si                 40.01152  40.00687  42.75327    Si  1 1  0.00000
+HETATM     9 Si                 42.86506  40.07560  39.92837    Si  1 1  0.00000
+HETATM    10 Si                 41.14309  38.96608  41.03425    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP  Si14                                                       
+REMARK                                                             
+RUTYPE MAXMOV     0
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 37.85785  38.76325  39.66171    Si  1 1  0.00000
+HETATM     2 Si                 38.33963  40.84333  40.53939    Si  1 1  0.00000
+HETATM     3 Si                 40.09879  41.85133  39.44358    Si  1 1  0.00000
+HETATM     4 Si                 42.13411  41.23403  40.35179    Si  1 1  0.00000
+HETATM     5 Si                 41.65276  39.15705  39.45678    Si  1 1  0.00000
+HETATM     6 Si                 39.89589  38.14525  40.55334    Si  1 1  0.00000
+HETATM     7 Si                 38.12969  38.90870  37.40225    Si  1 1  0.00000
+HETATM     8 Si                 40.08781  40.03964  37.84919    Si  1 1  0.00000
+HETATM     9 Si                 40.10252  42.29291  37.15065    Si  1 1  0.00000
+HETATM    10 Si                 42.05295  38.92272  37.16860    Si  1 1  0.00000
+HETATM    11 Si                 37.95398  41.09495  42.82717    Si  1 1  0.00000
+HETATM    12 Si                 39.90557  39.95791  42.14216    Si  1 1  0.00000
+HETATM    13 Si                 41.86850  41.08177  42.60829    Si  1 1  0.00000
+HETATM    14 Si                 39.91996  37.70717  42.84509    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP  Si18                                                       
+REMARK                                                             
+RUTYPE MAXMOV     0
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 38.34947  41.92832  40.74785    Si  1 1  0.00000
+HETATM     2 Si                 40.00000  41.21728  42.17633    Si  1 1  0.00000
+HETATM     3 Si                 41.65053  41.92832  40.74785    Si  1 1  0.00000
+HETATM     4 Si                 41.21744  40.00000  39.60518    Si  1 1  0.00000
+HETATM     5 Si                 40.00000  40.00000  37.65589    Si  1 1  0.00000
+HETATM     6 Si                 38.78256  40.00000  39.60518    Si  1 1  0.00000
+HETATM     7 Si                 38.15049  44.09172  39.85738    Si  1 1  0.00000
+HETATM     8 Si                 40.00000  42.86102  39.15873    Si  1 1  0.00000
+HETATM     9 Si                 41.84951  44.09172  39.85738    Si  1 1  0.00000
+HETATM    10 Si                 40.00000  42.17085  36.92613    Si  1 1  0.00000
+HETATM    11 Si                 40.00000  40.00000  44.19044    Si  1 1  0.00000
+HETATM    12 Si                 40.00000  38.78272  42.17633    Si  1 1  0.00000
+HETATM    13 Si                 41.65053  38.07168  40.74785    Si  1 1  0.00000
+HETATM    14 Si                 38.34947  38.07168  40.74785    Si  1 1  0.00000
+HETATM    15 Si                 40.00000  37.82915  36.92613    Si  1 1  0.00000
+HETATM    16 Si                 41.84951  35.90828  39.85738    Si  1 1  0.00000
+HETATM    17 Si                 38.15049  35.90828  39.85738    Si  1 1  0.00000
+HETATM    18 Si                 40.00000  37.13898  39.15873    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP Si22                                                        
+REMARK                                                             
+RUTYPE MAXMOV     0
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 39.57604  41.07762  38.78613    Si  1 1  0.00000
+HETATM     2 Si                 37.57450  41.08543  40.00000    Si  1 1  0.00000
+HETATM     3 Si                 39.57604  41.07762  41.21387    Si  1 1  0.00000
+HETATM     4 Si                 40.42396  38.92238  41.21387    Si  1 1  0.00000
+HETATM     5 Si                 42.42550  38.91457  40.00000    Si  1 1  0.00000
+HETATM     6 Si                 40.42396  38.92238  38.78613    Si  1 1  0.00000
+HETATM     7 Si                 40.62808  43.01119  37.89864    Si  1 1  0.00000
+HETATM     8 Si                 41.38723  42.27293  40.00000    Si  1 1  0.00000
+HETATM     9 Si                 40.62808  43.01119  42.10136    Si  1 1  0.00000
+HETATM    10 Si                 43.33892  41.02324  40.00000    Si  1 1  0.00000
+HETATM    11 Si                 36.66108  38.97676  40.00000    Si  1 1  0.00000
+HETATM    12 Si                 38.61277  37.72707  40.00000    Si  1 1  0.00000
+HETATM    13 Si                 39.37192  36.98881  42.10136    Si  1 1  0.00000
+HETATM    14 Si                 39.37192  36.98881  37.89864    Si  1 1  0.00000
+HETATM    15 Si                 36.54731  43.13437  40.00000    Si  1 1  0.00000
+HETATM    16 Si                 43.45269  36.86563  40.00000    Si  1 1  0.00000
+HETATM    17 Si                 39.37374  44.93692  38.06293    Si  1 1  0.00000
+HETATM    18 Si                 39.37374  44.93692  41.93707    Si  1 1  0.00000
+HETATM    19 Si                 40.62626  35.06308  41.93707    Si  1 1  0.00000
+HETATM    20 Si                 40.62626  35.06308  38.06293    Si  1 1  0.00000
+HETATM    21 Si                 41.27379  36.10164  40.00000    Si  1 1  0.00000
+HETATM    22 Si                 38.72621  43.89836  40.00000    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si29_ideal                                                  
+REMARK .bgf-file generated by xtob-script                          
+RUTYPE MAXMOV     0
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 36.84654  37.09565  40.18087    Si  1 1  0.00000
+HETATM     2 Si                 38.26632  39.87574  38.39789    Si  1 1  0.00000
+HETATM     3 Si                 36.35813  40.87592  39.15355    Si  1 1  0.00000
+HETATM     4 Si                 36.25363  39.27009  40.83179    Si  1 1  0.00000
+HETATM     5 Si                 37.12954  42.93278  39.94246    Si  1 1  0.00000
+HETATM     6 Si                 37.24564  40.19895  42.71181    Si  1 1  0.00000
+HETATM     7 Si                 40.04622  37.00909  37.00219    Si  1 1  0.00000
+HETATM     8 Si                 40.87953  36.04880  38.94549    Si  1 1  0.00000
+HETATM     9 Si                 39.17166  36.70295  40.38941    Si  1 1  0.00000
+HETATM    10 Si                 42.95643  36.78936  39.76810    Si  1 1  0.00000
+HETATM    11 Si                 40.14344  38.34522  41.60544    Si  1 1  0.00000
+HETATM    12 Si                 39.16652  40.78556  36.48627    Si  1 1  0.00000
+HETATM    13 Si                 40.83104  39.16053  36.52572    Si  1 1  0.00000
+HETATM    14 Si                 39.95940  42.91826  37.04140    Si  1 1  0.00000
+HETATM    15 Si                 41.46880  40.07644  38.53637    Si  1 1  0.00000
+HETATM    16 Si                 38.24029  37.60835  38.35243    Si  1 1  0.00000
+HETATM    17 Si                 41.76162  42.33246  38.40998    Si  1 1  0.00000
+HETATM    18 Si                 37.73130  42.38199  42.11989    Si  1 1  0.00000
+HETATM    19 Si                 42.41869  38.15906  41.62762    Si  1 1  0.00000
+HETATM    20 Si                 39.79704  39.94803  40.06422    Si  1 1  0.00000
+HETATM    21 Si                 43.19245  42.89411  40.20914    Si  1 1  0.00000
+HETATM    22 Si                 39.84364  41.60753  41.63987    Si  1 1  0.00000
+HETATM    23 Si                 43.01874  39.97399  42.96373    Si  1 1  0.00000
+HETATM    24 Si                 39.19342  39.19570  43.51504    Si  1 1  0.00000
+HETATM    25 Si                 40.89852  40.79294  43.52289    Si  1 1  0.00000
+HETATM    26 Si                 39.10572  43.80231  39.01086    Si  1 1  0.00000
+HETATM    27 Si                 40.86528  43.27374  40.45319    Si  1 1  0.00000
+HETATM    28 Si                 43.25823  39.12537  39.57674    Si  1 1  0.00000
+HETATM    29 Si                 43.95220  40.81907  41.01563    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si29_qmd_1                                                  
+REMARK .bgf-file generated by xtob-script                          
+RUTYPE MAXMOV     0
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 39.92787  38.82168  39.90818    Si  1 1  0.00000
+HETATM     2 Si                 40.23733  41.26127  38.03725    Si  1 1  0.00000
+HETATM     3 Si                 39.84540  41.08349  40.35689    Si  1 1  0.00000
+HETATM     4 Si                 39.96132  39.32465  36.76883    Si  1 1  0.00000
+HETATM     5 Si                 37.62438  38.54574  39.97667    Si  1 1  0.00000
+HETATM     6 Si                 37.20816  42.22842  42.48872    Si  1 1  0.00000
+HETATM     7 Si                 44.12442  38.63068  39.36521    Si  1 1  0.00000
+HETATM     8 Si                 37.01810  37.45742  37.98101    Si  1 1  0.00000
+HETATM     9 Si                 40.33837  38.49917  44.10545    Si  1 1  0.00000
+HETATM    10 Si                 41.06530  42.73935  41.41947    Si  1 1  0.00000
+HETATM    11 Si                 42.91928  38.34464  37.34581    Si  1 1  0.00000
+HETATM    12 Si                 38.97107  36.13357  38.38099    Si  1 1  0.00000
+HETATM    13 Si                 36.87770  39.86056  41.84494    Si  1 1  0.00000
+HETATM    14 Si                 40.73109  40.88573  43.90920    Si  1 1  0.00000
+HETATM    15 Si                 42.10624  40.46028  36.75351    Si  1 1  0.00000
+HETATM    16 Si                 41.11750  43.71180  39.25637    Si  1 1  0.00000
+HETATM    17 Si                 39.24874  43.31577  37.71944    Si  1 1  0.00000
+HETATM    18 Si                 37.60191  41.53986  40.32600    Si  1 1  0.00000
+HETATM    19 Si                 42.79169  40.26318  40.43347    Si  1 1  0.00000
+HETATM    20 Si                 40.79834  37.63516  38.11558    Si  1 1  0.00000
+HETATM    21 Si                 38.51539  36.49607  40.68305    Si  1 1  0.00000
+HETATM    22 Si                 42.41989  41.79030  38.71225    Si  1 1  0.00000
+HETATM    23 Si                 39.43016  42.69775  43.11078    Si  1 1  0.00000
+HETATM    24 Si                 40.24147  37.56796  41.88257    Si  1 1  0.00000
+HETATM    25 Si                 37.84902  39.71149  37.76343    Si  1 1  0.00000
+HETATM    26 Si                 37.25556  42.00403  38.09129    Si  1 1  0.00000
+HETATM    27 Si                 42.01302  37.92644  40.28368    Si  1 1  0.00000
+HETATM    28 Si                 39.16144  39.73623  42.47341    Si  1 1  0.00000
+HETATM    29 Si                 42.59985  41.32730  42.50656    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
+ 
+BIOGRF 200
+DESCRP si29_qmd_3                                                  
+REMARK .bgf-file generated by xtob-script                          
+RUTYPE MAXMOV     0
+FORMAT ATOM   (a6,1x,i5,1x,a5,1x,a3,1x,a1,1x,a5,3f10.5,1x,a5,i3,i2,1x,f8.5)
+HETATM     1 Si                 37.39680  36.88375  40.62286    Si  1 1  0.00000
+HETATM     2 Si                 37.22931  39.63132  37.62288    Si  1 1  0.00000
+HETATM     3 Si                 36.87657  40.39990  39.79268    Si  1 1  0.00000
+HETATM     4 Si                 36.28343  38.82727  41.40561    Si  1 1  0.00000
+HETATM     5 Si                 37.25107  42.60381  40.35434    Si  1 1  0.00000
+HETATM     6 Si                 37.19836  39.99845  43.21100    Si  1 1  0.00000
+HETATM     7 Si                 39.76664  36.86976  37.22080    Si  1 1  0.00000
+HETATM     8 Si                 40.96721  36.26575  39.10418    Si  1 1  0.00000
+HETATM     9 Si                 39.66534  36.41749  41.05782    Si  1 1  0.00000
+HETATM    10 Si                 42.28056  38.17745  39.38826    Si  1 1  0.00000
+HETATM    11 Si                 39.03787  39.49063  40.17829    Si  1 1  0.00000
+HETATM    12 Si                 39.11570  40.54393  36.56976    Si  1 1  0.00000
+HETATM    13 Si                 40.58542  38.79866  36.16335    Si  1 1  0.00000
+HETATM    14 Si                 40.25171  42.31155  37.55843    Si  1 1  0.00000
+HETATM    15 Si                 42.00591  39.75991  37.70557    Si  1 1  0.00000
+HETATM    16 Si                 38.24467  37.80542  38.67660    Si  1 1  0.00000
+HETATM    17 Si                 42.69279  42.08917  37.51254    Si  1 1  0.00000
+HETATM    18 Si                 37.53230  42.28013  42.65149    Si  1 1  0.00000
+HETATM    19 Si                 40.81587  38.44370  41.26876    Si  1 1  0.00000
+HETATM    20 Si                 40.60428  40.77771  39.24720    Si  1 1  0.00000
+HETATM    21 Si                 42.45698  41.97717  39.95471    Si  1 1  0.00000
+HETATM    22 Si                 39.87110  42.35683  42.78940    Si  1 1  0.00000
+HETATM    23 Si                 42.41897  40.22120  41.65773    Si  1 1  0.00000
+HETATM    24 Si                 39.45599  39.92875  42.64065    Si  1 1  0.00000
+HETATM    25 Si                 41.42747  40.83965  43.70250    Si  1 1  0.00000
+HETATM    26 Si                 39.20077  43.42136  39.33364    Si  1 1  0.00000
+HETATM    27 Si                 40.86072  43.34479  40.93652    Si  1 1  0.00000
+HETATM    28 Si                 44.00475  38.59160  40.92708    Si  1 1  0.00000
+HETATM    29 Si                 44.50146  40.94288  40.74537    Si  1 1  0.00000
+FORMAT CONECT (a6,12i6)
+END
